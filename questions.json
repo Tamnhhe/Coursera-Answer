@@ -100,5 +100,194 @@
     "selectedAnswers": [
       "To guarantee the confidentiality, integrity, and availability of information"
     ]
+  },
+  {
+    "question": "What does HTML stand for?",
+    "selectedAnswers": [
+      "Hypertext Markup Language"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "When you open a webpage in Chrome it may look slightly different if opened in a different browser.  ",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Read this question carefully since we are asking about things we want to avoid.  HTML5 should **NOT**...",
+    "selectedAnswers": [
+      "take advantage of the most up-to-date plugins."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following best explains the difference between syntax and semantics?",
+    "selectedAnswers": [
+      "A browser may have trouble displaying a page if the syntax is incorrect."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "W3C stands for:",
+    "selectedAnswers": [
+      "World Wide Web Consortium"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The creation of HTML5 was a cooperation between many parties. Which of the following was NOT part of that cooperation?",
+    "selectedAnswers": [
+      "DARPA"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "Which of the following is part of a URL?",
+    "selectedAnswers": [
+      "domain (or host) and protocol"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is an example of a top-level domain?",
+    "selectedAnswers": [
+      ".biz"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The Domain Name Service looks up the domain and returns the:",
+    "selectedAnswers": [
+      "IP address"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which organization is responsible for assigning top-level domain names?",
+    "selectedAnswers": [
+      "Internet Corporation for Assigned Numbers and Names (ICANN)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does LAN stand for?",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Local Area Network"
+  },
+  {
+    "question": "A ________________________ is a computer that is in charge of handling resource requests from multiple computers.",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Server"
+  },
+  {
+    "question": "A single web page may require several iterations of the Request-Response Cycle.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "tags"
+  },
+  {
+    "question": "The original developers of HTML were opposed to the addition of tags for graphical images.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The first graphical browser was.... (please use one word answer)",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Mosaic"
+  },
+  {
+    "question": "What are proprietary tags?",
+    "selectedAnswers": [
+      "Tags that work only on certain browsers"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of these tags breaks the tenet of the separation of content and layout?",
+    "selectedAnswers": [
+      "font"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following are browsers?",
+    "selectedAnswers": [
+      "Chrome, Firefox, Safari"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "A basic functionality of browsers is to translate HTML documents into viewable webpages.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which version of HTML introduced semantic tags?",
+    "selectedAnswers": [
+      "HTML 5"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the editors below has the most built-in functionality for creating .html files?",
+    "selectedAnswers": [
+      "Sublime"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is an Integrated Development Environment?",
+    "selectedAnswers": [
+      "Replit"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following should you avoid when naming your files ?",
+    "selectedAnswers": [
+      "Using any numbers in a file name."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What editor are you using?",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Good"
+  },
+  {
+    "question": "What browser(s) are you using?",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Good"
   }
 ]
