@@ -58,6 +58,13 @@
     ]
   },
   {
+    "question": "What is utilitarianism? (Select muliple answers).",
+    "selectedAnswers": [
+      "A type of consequentialism, where decisions and actions are evaluated as morally good or bad according to the consequences they bring about",
+      "An ethical framework based on the utility principle"
+    ]
+  },
+  {
     "question": "Is duty ethics a framework in which an action is considered morally right if it agrees with a certain moral rule?",
     "selectedAnswers": [
       "True"
@@ -71,13 +78,6 @@
   },
   {
     "question": "What is meaningful human control? (Select multiple answers)",
-    "selectedAnswers": [
-      "The type of control for which the human controller must have enough information and time to intervene on the autonomous systems",
-      "A concept proposed in the last years as a necessary condition for the responsible employment of autonomous weapon systems"
-    ]
-  },
-  {
-    "question": "What is meaningful human control? (Select muliple answers).",
     "selectedAnswers": [
       "The type of control for which the human controller must have enough information and time to intervene on the autonomous systems",
       "A concept proposed in the last years as a necessary condition for the responsible employment of autonomous weapon systems"
