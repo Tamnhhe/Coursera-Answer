@@ -77,6 +77,13 @@
     ]
   },
   {
+    "question": "What is meaningful human control? (Select muliple answers).",
+    "selectedAnswers": [
+      "The type of control for which the human controller must have enough information and time to intervene on the autonomous systems",
+      "A concept proposed in the last years as a necessary condition for the responsible employment of autonomous weapon systems"
+    ]
+  },
+  {
     "question": "Digital health and digital medicine have mainly four areas of application",
     "selectedAnswers": [
       "True"
