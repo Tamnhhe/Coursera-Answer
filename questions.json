@@ -289,5 +289,77 @@
       "No answer selected"
     ],
     "inputAnswer": "Good"
+  },
+  {
+    "question": "Which of the following are the basic elements of an organisation, as discussed by the instructor?",
+    "selectedAnswers": [
+      "Structure, systems, culture, people practices"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following best captures a key element of business strategy?",
+    "selectedAnswers": [
+      "What customer segments you are targeting"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following are the reasons that make key capabilies so important? Choose all that apply.",
+    "selectedAnswers": [
+      "They help focus the organisation on what it needs to be really good at to succeed with its strategy.",
+      "They can form the basis of sustainable competitive advantage.",
+      "They help focus leaders by enabling them to prioritize what issues are most important."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The instructor suggests using Porter's frameworks, when identifying key capabilities, for which of the following purposes?",
+    "selectedAnswers": [
+      "To go through the key value-adding activities in your organization in a systematic way."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is a myth around the use of the Porter's value chain framework?",
+    "selectedAnswers": [
+      "It’s only appropriate for analyzing manufacturing firms."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The operations process in the Porter's value chain framework is defined as_____________.",
+    "selectedAnswers": [
+      "The activity of transforming raw materials into finished goods."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which one of the following is classified as a primary activity in a value chain?",
+    "selectedAnswers": [
+      "Marketing and sales"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "According to the instructor, which of the following value chain activity is considered important for a consulting firm?",
+    "selectedAnswers": [
+      "HRM"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which one of the following is classified as a secondary activity in a value chain?",
+    "selectedAnswers": [
+      "HRM"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "According to the instructor, how can we ensure that our organisation can deliver on its strategy, while at the same time remaining sufficiently agile?",
+    "selectedAnswers": [
+      "Break the organization down into its main elements and align those elements with key capabilities"
+    ],
+    "inputAnswer": null
   }
 ]
