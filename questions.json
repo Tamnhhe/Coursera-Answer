@@ -537,5 +537,46 @@
       "JavaScript"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "Which of the following violate Kerckhoff's principle? Select all that are applicable. ",
+    "selectedAnswers": [
+      "A company states that its system is \"secure\" because it uses confidential and proprietary protocols. ",
+      "The company password is written using an invisible ink, and only the people within the company know the fact that invisible ink is used. "
+    ],
+    "inputAnswer": null,
+    "course": "Test"
+  },
+  {
+    "question": "Using the cryptography jargon, when Alice wants to communicate to Bob, who holds the key among Alice, Bob, and Eve? Select all that are applicable. ",
+    "selectedAnswers": [
+      "Bob",
+      "Alice"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is the least similar to Kerckhoff's Principle? ",
+    "selectedAnswers": [
+      "Security by Obscurity"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Solve the following steganographic message. The grading is space- and case-sensitive so, in your answer, use all lower case letters and skip all punctuation marks, i.e., your answer should only be comprised only of spaces, numbers, and lower-case letters. ",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "your package ready friday 21 st room three please destroy this immediately"
+  },
+  {
+    "question": "Which of the followings are examples of steganography? ",
+    "selectedAnswers": [
+      "Touching different parts of your faces (where different parts indicate different messages) while being engaged in another activity",
+      "Blinking based on Morse code while saying something else",
+      "Embedding another message on the least significant bits on images (so that they are indistinguishable in human eyes)",
+      "Invisible ink"
+    ],
+    "inputAnswer": null
   }
 ]
