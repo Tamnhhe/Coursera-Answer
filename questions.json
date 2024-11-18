@@ -1077,63 +1077,72 @@
     "inputAnswer": null
   },
   {
-    "question": "How are Python dictionaries different from Python lists? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "How are Python dictionaries different from Python lists?",
+    "code": null,
     "selectedAnswers": [
       "Python lists are indexed using integers and dictionaries can use strings as indexes"
     ],
     "inputAnswer": null
   },
   {
-    "question": "What is a term commonly used to describe the Python dictionary feature in other programming languages? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "What is a term commonly used to describe the Python dictionary feature in other programming languages?",
+    "code": null,
     "selectedAnswers": [
       "Associative arrays"
     ],
     "inputAnswer": null
   },
   {
-    "question": "What would the following Python code print out? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "What would the following Python code print out?",
+    "code": "stuff = dict()\nprint(stuff['candy'])",
+    "selectedAnswers": [
+      "The program would fail with a traceback"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What would the following Python code print out?",
+    "code": "stuff = dict()\nprint(stuff.get('candy',-1))",
     "selectedAnswers": [
       "-1"
     ],
     "inputAnswer": null
   },
   {
-    "question": "What would the following Python code print out? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
-    "selectedAnswers": [
-      "'candy'"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "What is a common use of Python dictionaries in a program? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "What is a common use of Python dictionaries in a program?",
+    "code": null,
     "selectedAnswers": [
       "Building a histogram counting the occurrences of various strings in a file"
     ],
     "inputAnswer": null
   },
   {
-    "question": "Which of the following lines of Python is equivalent to the following sequence of statements assuming that counts is a dictionary? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "Which of the following lines of Python is equivalent to the following sequence of statements assuming that counts is a dictionary?",
+    "code": "if key in counts:\n    counts[key] = counts[key] + 1\nelse:\n    counts[key] = 1",
     "selectedAnswers": [
       "counts[key] = counts.get(key,0) + 1"
     ],
     "inputAnswer": null
   },
   {
-    "question": "In the following Python, what does the for loop iterate through? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "In the following Python, what does the for loop iterate through?",
+    "code": "x = dict()\n...\nfor y in x :\n     ...",
     "selectedAnswers": [
       "It loops through the values in the dictionary"
     ],
     "inputAnswer": null
   },
   {
-    "question": "Which method in a dictionary object gives you a list of the values in the dictionary? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "Which method in a dictionary object gives you a list of the values in the dictionary?",
+    "code": null,
     "selectedAnswers": [
       "values()"
     ],
     "inputAnswer": null
   },
   {
-    "question": "What is the purpose of the second parameter of the get() method for Python dictionaries? | 1\n2\nstuff = dict()\nprint(stuff['candy'])",
+    "question": "What is the purpose of the second parameter of the get() method for Python dictionaries?",
+    "code": null,
     "selectedAnswers": [
       "To provide a default value if the key is not found"
     ],
