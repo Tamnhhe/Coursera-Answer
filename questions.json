@@ -1416,5 +1416,117 @@
       "No answer selected"
     ],
     "inputAnswer": "FVEAF"
+  },
+  {
+    "question": "Which of the following is NOT a fluid measurement?",
+    "selectedAnswers": [
+      "px"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Responsive Web Design is...",
+    "selectedAnswers": [
+      "Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Adaptive design with dynamic serving is....",
+    "selectedAnswers": [
+      "Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) and returning the appropriate version based on the device making the page request."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is a true statement about using a separate \"m.\" site for your content?",
+    "selectedAnswers": [
+      "It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The mobile version of your web page should have the same layout of every other version of your site. ",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which fluid measurement type returns a percentage of the viewport height?",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "vw"
+  },
+  {
+    "question": "When defining a measurement whitespace you must include the unit - even when the measurement is 0.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " For some CSS properties, negative lengths are allowed. ",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " 1 _____ = 1% of viewport width ",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "vw"
+  },
+  {
+    "question": "An em is the size of an uppercase M in any typeface, making the size relative to the font. ",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which term matches the browser window size?",
+    "selectedAnswers": [
+      "viewport"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " Which suggestion does Chris Coyier make in his article on Font Size? ",
+    "selectedAnswers": [
+      "px at the Root, rem for Components, em for Text Elements "
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px? (Provide a number only, not the measurement too.) ",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "64"
+  },
+  {
+    "question": "Which of the following measurements is relative to the size of its parent element? ",
+    "selectedAnswers": [
+      "em"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which measurement is easier and comfortable for the designer/ developer to use when coding their CSS but does not provide the best experience for the user?  ",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "px"
+  },
+  {
+    "question": "In tech when something is \"deprecated\" it means",
+    "selectedAnswers": [
+      "software developers are no longer actively supporting it, so its use is discouraged. "
+    ],
+    "inputAnswer": null
   }
 ]
