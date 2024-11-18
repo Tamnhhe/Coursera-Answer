@@ -767,5 +767,348 @@
       "No answer selected"
     ],
     "inputAnswer": "Not thing"
+  },
+  {
+    "question": "What does the following Python Program print out?",
+    "selectedAnswers": [
+      "Hellothere"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the following Python program print out?",
+    "selectedAnswers": [
+      "42"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How would you use the index operator [] to print out the letter q from the following string?",
+    "selectedAnswers": [
+      "print(x[8])"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How would you use string slicing [:] to print out 'uct' from the following string?",
+    "selectedAnswers": [
+      "print(x[15:18])"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the iteration variable in the following Python code?",
+    "selectedAnswers": [
+      "letter"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the following Python code print out?",
+    "selectedAnswers": [
+      "42"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How would you print out the following variable in all upper case in Python?",
+    "selectedAnswers": [
+      "1\nprint(greet.upper())"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is not a valid string method in Python?",
+    "selectedAnswers": [
+      "boldface()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What will the following Python code print out?",
+    "selectedAnswers": [
+      ".ma"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following string methods removes whitespace from both the beginning and end of a string?",
+    "selectedAnswers": [
+      "strip()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Given the architecture and terminology we introduced in Chapter 1, where are files stored?",
+    "selectedAnswers": [
+      "Secondary memory"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is stored in a \"file handle\" that is returned from a successful open() call?",
+    "selectedAnswers": [
+      "The handle is a connection to the file's data"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What do we use the second parameter of the open() call to indicate?",
+    "selectedAnswers": [
+      "Whether we want to read data from the file or write data to the file"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What Python function would you use if you wanted to prompt the user for a file name to open?",
+    "selectedAnswers": [
+      "input()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the purpose of the newline character in text files?",
+    "selectedAnswers": [
+      "It indicates the end of one line of text and the beginning of another line of text"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "If we open a file as follows:",
+    "selectedAnswers": [
+      "1\nfor line in xfile:"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the purpose of the following Python code?",
+    "selectedAnswers": [
+      "Count the lines in the file 'mbox.txt'"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "If you write a Python program to read a text file and you see extra blank lines in the output that are not present in the file input as shown below, what Python string function will likely solve the problem?",
+    "selectedAnswers": [
+      "rstrip()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The following code sequence fails with a traceback when the user enters a file that does not exist.  How would you avoid the traceback and make it so you could print out your own error message when a bad file name was entered?",
+    "selectedAnswers": [
+      "try / except"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the following Python code do?",
+    "selectedAnswers": [
+      "Reads the entire file into the variable inp as a string"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How are \"collection\" variables different from normal variables?",
+    "selectedAnswers": [
+      "Collection variables can store multiple values in a single variable"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What are the Python keywords used to construct a loop to iterate through a list?",
+    "selectedAnswers": [
+      "for / in"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "For the following list, how would you print out 'Sally'?",
+    "selectedAnswers": [
+      "print(friends[2])"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What would the following Python code print out?",
+    "selectedAnswers": [
+      "Nothing would print - the program fails with a traceback error"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following Python statements would print out the length of a list stored in the variable data?",
+    "selectedAnswers": [
+      "print(len(data))"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What type of data is produced when you call the range() function?",
+    "selectedAnswers": [
+      "A list of integers"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the following Python code print out?",
+    "selectedAnswers": [
+      "6"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following slicing operations will produce the list [12, 3]?",
+    "selectedAnswers": [
+      "t[2:4]"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What list method adds a new item to the end of an existing list?",
+    "selectedAnswers": [
+      "append()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What will the following Python code print out?",
+    "selectedAnswers": [
+      "Glenn"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How are Python dictionaries different from Python lists?",
+    "selectedAnswers": [
+      "Python lists are indexed using integers and dictionaries can use strings as indexes"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is a term commonly used to describe the Python dictionary feature in other programming languages?",
+    "selectedAnswers": [
+      "Associative arrays"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What would the following Python code print out?",
+    "selectedAnswers": [
+      "The program would fail with a traceback"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What would the following Python code print out?",
+    "selectedAnswers": [
+      "-1"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is a common use of Python dictionaries in a program?",
+    "selectedAnswers": [
+      "Building a histogram counting the occurrences of various strings in a file"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following lines of Python is equivalent to the following sequence of statements assuming that counts is a dictionary?",
+    "selectedAnswers": [
+      "counts[key] = counts.get(key,0) + 1"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In the following Python, what does the for loop iterate through?",
+    "selectedAnswers": [
+      "It loops through the values in the dictionary"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which method in a dictionary object gives you a list of the values in the dictionary?",
+    "selectedAnswers": [
+      "values()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the purpose of the second parameter of the get() method for Python dictionaries?",
+    "selectedAnswers": [
+      "To provide a default value if the key is not found"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the difference between a Python tuple and Python list?",
+    "selectedAnswers": [
+      "Lists are mutable and tuples are not mutable"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following methods work both in Python lists and Python tuples?",
+    "selectedAnswers": [
+      "index()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What will end up in the variable y after this code is executed?",
+    "selectedAnswers": [
+      "4"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In the following Python code, what will end up in the variable y?",
+    "selectedAnswers": [
+      "A list of tuples"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following tuples is greater than x in the following Python sequence?",
+    "selectedAnswers": [
+      "(6, 0, 0) "
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the following Python code accomplish, assuming the c is a non-empty dictionary?",
+    "selectedAnswers": [
+      "It creates a list of tuples where each tuple is a value, key pair"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "If the variable data is a Python list, how do we sort it in reverse order?",
+    "selectedAnswers": [
+      "data.sort(reverse=True)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Using the following tuple, how would you print 'Wed'?",
+    "selectedAnswers": [
+      "print(days[2])"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In the following Python loop, why are there two iteration variables (k and v)?",
+    "selectedAnswers": [
+      "Because the items() method in dictionaries returns a list of tuples"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Given that Python lists and Python tuples are quite similar - when might you prefer to use a tuple over a list?",
+    "selectedAnswers": [
+      "For a temporary variable that you will use and discard without modifying"
+    ],
+    "inputAnswer": null
   }
 ]
