@@ -1528,5 +1528,157 @@
       "software developers are no longer actively supporting it, so its use is discouraged. "
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is NOT a fluid measurement",
+    "code": null,
+    "selectedAnswers": [
+      "%"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " The mobile version of your web page should have the same capabilities of every other version of your site. ",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The fluid measurement % can only be used on non-textual elements",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " When defining a measurement whitespace you must include the unit - even when the measurement is 0. ",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " Which of the following measurements is relative to the size of its parent element? ",
+    "code": null,
+    "selectedAnswers": [
+      "em"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "If you have an element with the font size of 24px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)",
+    "code": null,
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "12"
+  },
+  {
+    "question": "HTML5 introduced a method to let web designers take control over the viewport.  The new tag is the ______ tag. ",
+    "code": null,
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "meta"
+  },
+  {
+    "question": " Which of the following should you NOT do when creating a responsive page?",
+    "code": null,
+    "selectedAnswers": [
+      " Use large fixed width elements."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "You can use media queries to change the layout of your page when the orientation of a mobile device changes from portrait to landscape. ",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " Consider the following CSS rules:  ",
+    "code": "div{ \n    width: 80%; \n}\n \n@media all and (min-width: 500px){ \n    div{ \n        width: 25%; \n    } \n}\n ",
+    "selectedAnswers": [
+      "80%"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Consider the following CSS rules:",
+    "code": "div{ \n    width: 80%; \n} \n@media print {\n    div{ \n        width: 25%; \n    } \n}",
+    "selectedAnswers": [
+      " The div elements will have a width of 25% only when the page is printed "
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Consider the following CSS rules:",
+    "code": "@media all and (min-width: 500px){ \n    div{ \n        width: 25%; \n    } \n} \n \ndiv{ \n    width: 80%; \n}",
+    "selectedAnswers": [
+      "80%"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Consider the following CSS rules:",
+    "code": "div{ \n    width: 80%; \n} \n \n@media all and (min-width: 500px){ \n    div{ \n        width: 25%; \n    } \n}",
+    "selectedAnswers": [
+      "25%"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Consider the following code using Bootstrap:",
+    "code": "<div class = \"col-md-3 col-lg-7\">",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "<div class = \"col-md-3 col-lg-7\">"
+  },
+  {
+    "question": "Bootstrap is mobile-first.",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Every major web browser supports reduce-motion, including Chrome, Edge, Firefox, Safari, and Opera. ",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": " The default value for (prefers-reduced-motion) without is \"reduce\". ",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The possible values for the  prefers-contrast CSS media feature include more, less, and custom.  (Not sure?  Here is a link to help you find the answer – \nprefers-contrast - CSS: Cascading Style Sheets | MDN\n.) ",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The possible values for the prefers-color-scheme CSS media feature include more, less, and custom.   (Not sure?  Here is a link to help you find the answer – \nprefers-color-scheme - CSS: Cascading Style Sheets | MDN\n.)",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
   }
 ]
