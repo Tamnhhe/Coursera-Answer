@@ -1227,5 +1227,194 @@
       "stephen.marquard@uct.ac.za"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "W3C stands for:",
+    "code": null,
+    "selectedAnswers": [
+      "World Wide Web Consortium"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is part of a URL?",
+    "code": null,
+    "selectedAnswers": [
+      "hosting service"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The Request-Response Cycle…",
+    "code": null,
+    "selectedAnswers": [
+      "may require several iterations of the Request-Response Cycle."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of these tags breaks the tenet of the separation of content and layout?",
+    "code": null,
+    "selectedAnswers": [
+      "br"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following are browsers?",
+    "code": null,
+    "selectedAnswers": [
+      "Chrome, Firefox, Safari"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following filename is using camel case?",
+    "code": null,
+    "selectedAnswers": [
+      "myFirstFile.html"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The HTML5 headings are block-level elements.",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which element creates a bulleted  list?",
+    "code": null,
+    "selectedAnswers": [
+      "ul"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "It is good practice to start all of your alt text with “Image of a …” followed by a description.",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "A screen reader will automatically provide a visual description of emojis.",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following are recommended sources for finding images for diverse audiences?  (You must select all that apply for full credit.)",
+    "code": null,
+    "selectedAnswers": [
+      "Disabled and Here",
+      "PICNOI"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "No question text",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "No question text",
+    "code": null,
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The acronym for the four principles of accessibility is:",
+    "code": null,
+    "selectedAnswers": [
+      "POUR"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does View Source do?",
+    "code": null,
+    "selectedAnswers": [
+      "Displays the contents of the file."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The role of a  web accessibility coordinator includes which of the following?  (You must select all that apply.)",
+    "code": null,
+    "selectedAnswers": [
+      "Keep pace with changing technology",
+      "Helps guide policy and purchasing decisions",
+      "Working with W3C to create guidelines for future versions of HTML"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following can affect the visual accessibility of your site?  (Select all that apply.)",
+    "code": null,
+    "selectedAnswers": [
+      "font size",
+      "color contrast",
+      "font family"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following can affect the visual accessibility of your site?  ",
+    "code": null,
+    "selectedAnswers": [
+      "Both font color and font size."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Adherence to standards is important when trying to improve accessibility.",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The Wave validator will detect if you have bad color contrast on your page.",
+    "code": null,
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How well are people validating their code?  Type the URL of some of your favorite sites into \nhttps://validator.w3.org/\n.   What types of errors do you see the most often?",
+    "code": null,
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Submit the URLs again to the accessibility checker at \nhttps://wave.webaim.org/\n.  Do you see more or less errors than the w3 validator?",
+    "code": null,
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": null
   }
 ]
