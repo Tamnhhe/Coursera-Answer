@@ -1147,5 +1147,85 @@
       "To provide a default value if the key is not found"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "Which of the following regular expressions would extract 'uct.ac.za' from this string using re.findall?",
+    "code": "From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008",
+    "selectedAnswers": [
+      "@(\\S+)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is the way we match the \"start of a line\" in a regular expression?",
+    "code": null,
+    "selectedAnswers": [
+      "^"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What would the following mean in a regular expression? [a-z0-9]",
+    "code": null,
+    "selectedAnswers": [
+      "Match anything but a lowercase letter or digit"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the type of the return value of the re.findall() method?",
+    "code": null,
+    "selectedAnswers": [
+      "A list of strings"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the \"wild card\" character in a regular expression (i.e., the character that matches any character)?",
+    "code": null,
+    "selectedAnswers": [
+      "."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the difference between the \"+\" and \"*\" character in regular expressions?",
+    "code": null,
+    "selectedAnswers": [
+      "The \"+\" matches at least one character and the \"*\" matches zero or more characters"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the \"[0-9]+\" match in a regular expression?",
+    "code": null,
+    "selectedAnswers": [
+      "One or more digits"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What does the following Python sequence print out?",
+    "code": "x = 'From: Using the : character'\ny = re.findall('^F.+:', x)\nprint(y)",
+    "selectedAnswers": [
+      "['From:']"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What character do you add to the \"+\" or \"*\" to indicate that the match is to be done in a non-greedy manner?",
+    "code": null,
+    "selectedAnswers": [
+      "?"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Given the following line of text:",
+    "code": "From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008",
+    "selectedAnswers": [
+      "stephen.marquard@uct.ac.za"
+    ],
+    "inputAnswer": null
   }
 ]
