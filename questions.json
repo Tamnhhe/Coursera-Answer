@@ -1811,14 +1811,14 @@
     "inputAnswer": "No input provided"
   },
   {
-    "question": "What is the value of the element in position 2? What is the value of the element in position 2?\n\n12\n\n\t\n\n45\n\n\t\n\n32\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n12\n\n\t\n\n10",
+    "question": "what is the value of the element in position 2?1245325611210",
     "selectedAnswers": [
       "No answer selected"
     ],
     "inputAnswer": "32"
   },
   {
-    "question": "What is the index of the element with the value of 10? What is the index of the element with the value of 10? \n\n12\n\n\t\n\n45\n\n\t\n\n10\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n14\n\n\t\n\n12",
+    "question": "what is the index of the element with the value of 10? 1245325611210",
     "selectedAnswers": [
       "No answer selected"
     ],
