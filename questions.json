@@ -1760,5 +1760,117 @@
       "No answer selected"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "Arrays can store multiple, related pieces of information.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "Array indexes start with 0. [0] is the first element. [1] is the second element, etc.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "Arrays can store multiple, related pieces of information, but they must all be of the same type (String, Object, etc.).",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "Which is the proper way to declare an array?",
+    "selectedAnswers": [
+      "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "Every element in an array must be a numeric value.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "Elements are referenced by index.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "In JavaScript the first index in an array is 0.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "What is the value of the element in position 2? What is the value of the element in position 2?\n\n12\n\n\t\n\n45\n\n\t\n\n32\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n12\n\n\t\n\n10",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "32"
+  },
+  {
+    "question": "What is the index of the element with the value of 10? What is the index of the element with the value of 10? \n\n12\n\n\t\n\n45\n\n\t\n\n10\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n14\n\n\t\n\n12",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "2"
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10]\n\nWhat is the value of my_array[4] ?",
+    "selectedAnswers": [
+      "10"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10]\n\nWhat is the value of my_array.length ?",
+    "selectedAnswers": [
+      "5"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "JavaScript Arrays have attributes and methods.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "When declaring an array Spaces and line breaks are important. A declaration can not span multiple lines.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
+    "selectedAnswers": [
+      "var my_array = document.querySelector(#idName)\n\nfirst_element = my_array[0]"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:",
+    "selectedAnswers": [
+      "console.log"
+    ],
+    "inputAnswer": "No input provided"
+  },
+  {
+    "question": "How do you properly access the third element in an array variable named \"fruit”?",
+    "selectedAnswers": [
+      "None of the above"
+    ],
+    "inputAnswer": "No input provided"
   }
 ]
