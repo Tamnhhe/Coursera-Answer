@@ -1793,5 +1793,33 @@
       "6"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "which is the proper way to declare an array?",
+    "selectedAnswers": [
+      "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "what is the value of the element in position 5?1245325611210",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "1"
+  },
+  {
+    "question": "javascript arrays have attributes and methods.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
+    "selectedAnswers": [
+      "var my_array = document.getElementById(idName)\n\nfirst_element = my_array[0]"
+    ],
+    "inputAnswer": null
   }
 ]
