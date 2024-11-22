@@ -102,13 +102,6 @@
     ]
   },
   {
-    "question": "What does HTML stand for?",
-    "selectedAnswers": [
-      "Hypertext Markup Language"
-    ],
-    "inputAnswer": null
-  },
-  {
     "question": "When you open a webpage in Chrome it may look slightly different if opened in a different browser.  ",
     "selectedAnswers": [
       "True"
@@ -116,23 +109,9 @@
     "inputAnswer": null
   },
   {
-    "question": "Read this question carefully since we are asking about things we want to avoid.  HTML5 should **NOT**...",
-    "selectedAnswers": [
-      "take advantage of the most up-to-date plugins."
-    ],
-    "inputAnswer": null
-  },
-  {
     "question": "Which of the following best explains the difference between syntax and semantics?",
     "selectedAnswers": [
       "A browser may have trouble displaying a page if the syntax is incorrect."
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "W3C stands for:",
-    "selectedAnswers": [
-      "World Wide Web Consortium"
     ],
     "inputAnswer": null
   },
@@ -601,44 +580,9 @@
     "inputAnswer": null
   },
   {
-    "question": "The creation of HTML5 was a cooperation between many parties. Which of the following was NOT part of that cooperation?",
-    "selectedAnswers": [
-      "DARPA"
-    ],
-    "inputAnswer": null
-  },
-  {
     "question": "HTTP stands for",
     "selectedAnswers": [
       "Hypertext Transfer Protocol"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Which of the following is part of a URL?",
-    "selectedAnswers": [
-      "domain (or host) and protocol"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Which of the following is an example of a top-level domain?",
-    "selectedAnswers": [
-      ".biz"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "The Domain Name Service looks up the domain and returns the:",
-    "selectedAnswers": [
-      "IP address"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Which organization is responsible for assigning top-level domain names?",
-    "selectedAnswers": [
-      "Internet Corporation for Assigned Numbers and Names (ICANN)"
     ],
     "inputAnswer": null
   },
@@ -657,37 +601,9 @@
     "inputAnswer": "server"
   },
   {
-    "question": "A single web page may require several iterations of the Request-Response Cycle.",
-    "selectedAnswers": [
-      "True"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.",
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": "tags"
-  },
-  {
     "question": "The original developers of HTML were opposed to the addition of tags for graphical images.",
     "selectedAnswers": [
       "False"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "The first graphical browser was.... (please use one word answer)",
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": "Mosaic"
-  },
-  {
-    "question": "What are proprietary tags?",
-    "selectedAnswers": [
-      "Tags that work only on certain browsers"
     ],
     "inputAnswer": null
   },
@@ -702,34 +618,6 @@
     "question": "Which of the following are browsers?",
     "selectedAnswers": [
       "Safari, Chrome, Edge"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "A basic functionality of browsers is to translate HTML documents into viewable webpages.",
-    "selectedAnswers": [
-      "True"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Which version of HTML introduced semantic tags?",
-    "selectedAnswers": [
-      "HTML 5"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Which of the editors below has the most built-in functionality for creating .html files?",
-    "selectedAnswers": [
-      "Sublime"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Which of the following is an Integrated Development Environment?",
-    "selectedAnswers": [
-      "Replit"
     ],
     "inputAnswer": null
   },
@@ -1322,14 +1210,6 @@
     "selectedAnswers": [
       "Disabled and Here",
       "PICNOI"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "No question text",
-    "code": null,
-    "selectedAnswers": [
-      "False"
     ],
     "inputAnswer": null
   },
