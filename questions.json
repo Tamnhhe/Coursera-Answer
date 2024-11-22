@@ -1723,74 +1723,211 @@
     ],
     "inputAnswer": null
   },
-  {
-    "question": "DownloadScenarios - Week 5 Graded QuizOpens in a new tab to complete this quiz.Refer to Scenario 1Opens in a new tab to answer quiz questions 1 - 6   By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the new Director of Training should be categorized as a:",
-    "selectedAnswers": [
-      "\n\n“Critical”, because this role is strategically central, and likely to be relatively difficult to source in the labour market"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 1Opens in a new tab to answer question 2.  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of personal trainers that will be reporting into the new Director of Training should be categorized as:",
-    "selectedAnswers": [
-      "\n\n“Professional”, because the role is strategically central, but should be relatively easy to source in the labour market"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 1Opens in a new tab to answer question 3.  The new organisation structure does not leave any room for your former gym directors. Instead, you are going to employ receptionists who are there to open and close the gym, deal with new gym enrolments, client enquiries, and personal trainer bookings insofar as these are not arranged online. These receptionists need to be professional, service-minded, and organised. And finally, you have decided to hire a specialist in gym equipment, who will be in charge of procurement and maintenance of all gym equipment, making sure that your company is always in step with the latest trends, and that all equipment is safe and always in top working order.By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the receptionist role should be categorized as a:",
-    "selectedAnswers": [
-      "\n\n“Doer” or “Professional”, depending on how strategically central you assess their role to be, which is difficult to determine given the case information"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 1Opens in a new tab to answer question 4.  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of Head of Gym Equipment should be categorized as a:",
-    "selectedAnswers": [
-      "“Specialist”, because the role is strategically not that central, but likely to be relatively difficult to source in the labour market"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 1Opens in a new tab to answer question 5.  A best practice approach to HRM based on theory Y that emphasizes job security and empowerment is not necessarily best in this case because….",
-    "selectedAnswers": [
-      "We can’t be sure whether this approach will be effective in Singapore, given that it is based on a theory that is North America-centric"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 1Opens in a new tab to answer question 6.  \n\nWhich of the following is correct? Given the strategic centrality and uniqueness of your new Director of Training …..",
-    "selectedAnswers": [
-      "You should adjust your HR practices to the strategically critical nature of this role to ensure that you encourage commitment"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 2Opens in a new tab to answer questions 7 - 10.By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the Global Teaching Area Heads should be categorized as a:",
-    "selectedAnswers": [
-      "“Critical”, because this role is strategically central, and likely to be relatively difficult to source in the labour market"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 2Opens in a new tab to answer question 8.  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of teaching assistant should be categorized as:",
-    "selectedAnswers": [
-      "“Doer”, because the role is strategically not that central, and should be relatively easy to source in the labour market"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 2Opens in a new tab to answer question 9.  \n\nWhich of the following is false? When applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework …..",
-    "selectedAnswers": [
-      "School Principals are more unique than Global teaching area heads"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "Refer to Scenario 2Opens in a new tab to answer question 10.  \n\nWhich of the following statements is true for the level of pay you should be considering across the different roles in your organisation?",
-    "selectedAnswers": [
-      "None of the above; pay level should not be determined based on the role classifications in the Lepak and Snell workforce segmentation framework"
-    ],
-    "inputAnswer": null
-  }
+  [
+    {
+      "question": "DownloadScenarios - Week 5 Graded QuizOpens in a new tab to complete this quiz.Refer to Scenario 1Opens in a new tab to answer quiz questions 1 - 6   By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the new Director of Training should be categorized as a:",
+      "selectedAnswers": [
+        "\n\n“Critical”, because this role is strategically central, and likely to be relatively difficult to source in the labour market"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 1Opens in a new tab to answer question 2.  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of personal trainers that will be reporting into the new Director of Training should be categorized as:",
+      "selectedAnswers": [
+        "\n\n“Professional”, because the role is strategically central, but should be relatively easy to source in the labour market"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 1Opens in a new tab to answer question 3.  The new organisation structure does not leave any room for your former gym directors. Instead, you are going to employ receptionists who are there to open and close the gym, deal with new gym enrolments, client enquiries, and personal trainer bookings insofar as these are not arranged online. These receptionists need to be professional, service-minded, and organised. And finally, you have decided to hire a specialist in gym equipment, who will be in charge of procurement and maintenance of all gym equipment, making sure that your company is always in step with the latest trends, and that all equipment is safe and always in top working order.By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the receptionist role should be categorized as a:",
+      "selectedAnswers": [
+        "\n\n“Doer” or “Professional”, depending on how strategically central you assess their role to be, which is difficult to determine given the case information"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 1Opens in a new tab to answer question 4.  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of Head of Gym Equipment should be categorized as a:",
+      "selectedAnswers": [
+        "“Specialist”, because the role is strategically not that central, but likely to be relatively difficult to source in the labour market"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 1Opens in a new tab to answer question 5.  A best practice approach to HRM based on theory Y that emphasizes job security and empowerment is not necessarily best in this case because….",
+      "selectedAnswers": [
+        "We can’t be sure whether this approach will be effective in Singapore, given that it is based on a theory that is North America-centric"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 1Opens in a new tab to answer question 6.  \n\nWhich of the following is correct? Given the strategic centrality and uniqueness of your new Director of Training …..",
+      "selectedAnswers": [
+        "You should adjust your HR practices to the strategically critical nature of this role to ensure that you encourage commitment"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 2Opens in a new tab to answer questions 7 - 10.By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the Global Teaching Area Heads should be categorized as a:",
+      "selectedAnswers": [
+        "“Critical”, because this role is strategically central, and likely to be relatively difficult to source in the labour market"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 2Opens in a new tab to answer question 8.  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of teaching assistant should be categorized as:",
+      "selectedAnswers": [
+        "“Doer”, because the role is strategically not that central, and should be relatively easy to source in the labour market"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 2Opens in a new tab to answer question 9.  \n\nWhich of the following is false? When applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework …..",
+      "selectedAnswers": [
+        "School Principals are more unique than Global teaching area heads"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Refer to Scenario 2Opens in a new tab to answer question 10.  \n\nWhich of the following statements is true for the level of pay you should be considering across the different roles in your organisation?",
+      "selectedAnswers": [
+        "None of the above; pay level should not be determined based on the role classifications in the Lepak and Snell workforce segmentation framework"
+      ],
+      "inputAnswer": null
+    }
+  ],
+  [
+    {
+      "question": "The default value for the position property is:",
+      "selectedAnswers": [
+        "static"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "What is wrong with this code?1234div{     position: static;     left: 10px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_1:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_1:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_1 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_1 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_1 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_1 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_1:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_1.drop-target,\n\t\t\t\t.monaco-list.list_id_1 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_1 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "The code works, but the left property is not necessary since static elements don't allow offsets"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
+      "selectedAnswers": [
+        "sticky"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Assume that this code is linked together correctly.123456789101112131415p{     color: red;     background: black; }  .fancy{     font-family: cursive;     background: red;     color: green; }  .plain{     font-family: Times, serif;     color: black; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_2:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_2:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_2:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_2:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_2 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_2 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_2 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_2 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_2:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_2.drop-target,\n\t\t\t\t.monaco-list.list_id_2 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_2 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.1<p class = \"fancy plain\">Hi</p>Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_3:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_3:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_3:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_3:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_3 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_3 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_3 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_3 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_3:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_3.drop-target,\n\t\t\t\t.monaco-list.list_id_3 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_3 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What color font is used to display \"Hi\"?",
+      "selectedAnswers": [
+        "green"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "z-index"
+    },
+    {
+      "question": "The # symbol specifies that the selector is a/an",
+      "selectedAnswers": [
+        "id"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "What are the four principles of Accessibility?",
+      "selectedAnswers": [
+        "POUR"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Given this rule:123div{     border-width:10px 3px 5px 9px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_4:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_4:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_4:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_4:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_4 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_4 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_4 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_4 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_4:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_4.drop-target,\n\t\t\t\t.monaco-list.list_id_4 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_4 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.what is the width of the left border?",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "div{ \n    border-width:10px 3px 5px 9px; \n}"
+    },
+    {
+      "question": "Which snippet of CSS is commonly used to center an element horizontally?",
+      "selectedAnswers": [
+        "margin: 0 auto;"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Which of the following is the best way to convey that your text has special meaning?",
+      "selectedAnswers": [
+        "Using semantic tags in addition to color and/or font."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Skip to Main Content is a feature that:",
+      "selectedAnswers": [
+        "Allows keyboard users to easily navigate your site. "
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "The margin is the space between elements.",
+      "selectedAnswers": [
+        "True"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Padding is...",
+      "selectedAnswers": [
+        "The space between an element and its border"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "The padding and margin properties can be styled with unique colors.",
+      "selectedAnswers": [
+        "False."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "How much horizontal space (\"width\") will this div use?123456div{     width:50px;     padding: 10px;     margin: 5px;     border: 2px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_5:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_5:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_5:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_5:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_5 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_5 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_5 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_5 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_5:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_5.drop-target,\n\t\t\t\t.monaco-list.list_id_5 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_5 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "div{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}"
+    },
+    {
+      "question": "How much vertical space (\"height\") will this div use?123456div{     height:50px;     padding: 5px 10px;     margin: 5px;     border: 2px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_6:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_6:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_6:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_6:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_6 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_6 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_6 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_6 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_6:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_6.drop-target,\n\t\t\t\t.monaco-list.list_id_6 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_6 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "div{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}"
+    },
+    {
+      "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
+      "selectedAnswers": [
+        "10px"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Which of the following would be used to create a class called button which has a width of 750px, a height of 30px and the color of the text is black?",
+      "selectedAnswers": [
+        "1\n2\n3\n4\n5\n#button { \n    height: 30px; \n    width: 750px; \n    color: black; \n}"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "How much width will this div occupy?123456div{     width:100px;    padding: 10px;     margin: 5px;     border: 2px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_11:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_11:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_11:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_11:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_11:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_11:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_11:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_11 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_11 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_11 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_11 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_11:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_11.drop-target,\n\t\t\t\t.monaco-list.list_id_11 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_11 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "134px"
+      ],
+      "inputAnswer": null
+    }
+  ]
 ]
