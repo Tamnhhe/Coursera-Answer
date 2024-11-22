@@ -2048,13 +2048,6 @@
         "134px"
       ],
       "inputAnswer": null
-    },
-    {
-      "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
-      "selectedAnswers": [
-        "10px"
-      ],
-      "inputAnswer": null
     }
   ]
 ]
