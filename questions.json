@@ -1650,227 +1650,111 @@
     "inputAnswer": null
   },
   {
-    "question": "Every major web browser supports reduce-motion, including Chrome, Edge, Firefox, Safari, and Opera. ",
-    "code": null,
-    "selectedAnswers": [
-      "True"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": " The default value for (prefers-reduced-motion) without is \"reduce\". ",
-    "code": null,
-    "selectedAnswers": [
-      "True"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "The possible values for the  prefers-contrast CSS media feature include more, less, and custom.  (Not sure?  Here is a link to help you find the answer – \nprefers-contrast - CSS: Cascading Style Sheets | MDN\n.) ",
-    "code": null,
-    "selectedAnswers": [
-      "True"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "The possible values for the prefers-color-scheme CSS media feature include more, less, and custom.   (Not sure?  Here is a link to help you find the answer – \nprefers-color-scheme - CSS: Cascading Style Sheets | MDN\n.)",
-    "code": null,
-    "selectedAnswers": [
-      "False"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "1.\nQuestion 1\n\nDownload\n\n\n\n\nScenarios - Week 5 Graded Quiz\n to complete this quiz.\n\nRefer to \nScenario 1\n to answer quiz questions 1 - 6 \n\n  By applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the new Director of Training should be categorized as a:",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "2.\nQuestion 2\n\n  Refer to \nScenario 1\n to answer question 2.  \n\nBy applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of personal trainers that will be reporting into the new Director of Training should be categorized as:",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "3.\nQuestion 3\n\n  Refer to \nScenario 1\n to answer question 3.  \n\nThe new organisation structure does not leave any room for your former gym directors. Instead, you are going to employ receptionists who are there to open and close the gym, deal with new gym enrolments, client enquiries, and personal trainer bookings insofar as these are not arranged online. These receptionists need to be professional, service-minded, and organised. And finally, you have decided to hire a specialist in gym equipment, who will be in charge of procurement and maintenance of all gym equipment, making sure that your company is always in step with the latest trends, and that all equipment is safe and always in top working order.\n\nBy applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the receptionist role should be categorized as a:",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "4.\nQuestion 4\n\nRefer to \nScenario 1\n to answer question 4.  \n\nBy applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of Head of Gym Equipment should be categorized as a:",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "5.\nQuestion 5\n\n  Refer to \nScenario 1\n to answer question 5.  \n\nA best practice approach to HRM based on theory Y that emphasizes job security and empowerment is not necessarily best in this case because….",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "6.\nQuestion 6\n\n  Refer to \nScenario 1\n to answer question 6.  \n\n\n\nWhich of the following is correct? Given the strategic centrality and uniqueness of your new Director of Training …..",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "7.\nQuestion 7\n\nRefer to \nScenario 2\n to answer questions 7 - 10.\n\nBy applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the Global Teaching Area Heads should be categorized as a:",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "8.\nQuestion 8\n\n  Refer to \nScenario 2\n to answer question 8.  \n\nBy applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework, the role of teaching assistant should be categorized as:",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "9.\nQuestion 9\n\n  Refer to \nScenario 2\n to answer question 9.  \n\n\n\nWhich of the following is false? When applying the information in the case to Lepak and Snell’s strategic workforce segmentation framework …..",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
-    "question": "10.\nQuestion 10\n\n  Refer to \nScenario 2\n to answer question 10.  \n\n\n\nWhich of the following statements is true for the level of pay you should be considering across the different roles in your organisation?",
-    "code": null,
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": null
-  },
-  {
     "question": "Arrays can store multiple, related pieces of information.",
     "selectedAnswers": [
       "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "Array indexes start with 0. [0] is the first element. [1] is the second element, etc.",
     "selectedAnswers": [
       "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "Arrays can store multiple, related pieces of information, but they must all be of the same type (String, Object, etc.).",
     "selectedAnswers": [
       "False"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
-    "question": "Which is the proper way to declare an array?",
+    "question": "Array values are separated by commas.",
     "selectedAnswers": [
-      "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
+      "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
-    "question": "Every element in an array must be a numeric value.",
+    "question": "Every index in an array must be a numeric value.",
     "selectedAnswers": [
-      "False"
+      "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "Elements are referenced by index.",
     "selectedAnswers": [
       "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "In JavaScript the first index in an array is 0.",
     "selectedAnswers": [
       "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
-    "question": "what is the value of the element in position 2?1245325611210",
-    "selectedAnswers": [
-      "No answer selected"
-    ],
+    "question": "What is the value of the element in position 2? What is the value of the element in position 2?\n\n12\n\n\t\n\n45\n\n\t\n\n32\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n12\n\n\t\n\n10",
+    "selectedAnswers": null,
     "inputAnswer": "32"
   },
   {
-    "question": "what is the index of the element with the value of 10? 1245325611210",
-    "selectedAnswers": [
-      "No answer selected"
-    ],
-    "inputAnswer": "2"
+    "question": "What is the index of the element with the value of 10? What is the index of the element with the value of 10? \n\n12\n\n\t\n\n45\n\n\t\n\n32\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n12\n\n\t\n\n10",
+    "selectedAnswers": null,
+    "inputAnswer": "6"
   },
   {
-    "question": "var myarray  2, 4, 6, 8, 10what is the value of myarray4 ?",
+    "question": "var my_array = [2, 4, 6, 8, 10]\n\nWhat is the value of my_array[4] ?",
     "selectedAnswers": [
       "10"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
-    "question": "var my_array = [2, 4, 6, 8, 10]\n\nWhat is the value of my_array.length ?",
+    "question": "var my_array = [\"cat\", \"dog\", 1, 2]\n\nWhat is the value of my_array.length ?",
     "selectedAnswers": [
-      "5"
+      "4"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
-    "question": "JavaScript Arrays have attributes and methods.",
+    "question": "JavaScript Arrays are Objects.",
     "selectedAnswers": [
       "True"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "When declaring an array Spaces and line breaks are important. A declaration can not span multiple lines.",
     "selectedAnswers": [
       "False"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
     "selectedAnswers": [
-      "var my_array = document.querySelector(#idName)\n\nfirst_element = my_array[0]"
+      "var my_array = document.querySelectorAll(.className)\n\nfirst_element = my_array[0]"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
     "question": "If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:",
     "selectedAnswers": [
       "console.log"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   },
   {
-    "question": "How do you properly access the third element in an array variable named \"fruit”?",
+    "question": "How do you properly access the first element in an array variable named \"fruit\"",
     "selectedAnswers": [
-      "None of the above"
+      "fruit[0]"
     ],
-    "inputAnswer": "No input provided"
+    "inputAnswer": null
   }
 ]
