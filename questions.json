@@ -1756,5 +1756,19 @@
       "fruit[0]"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "What is the value of the element in position 1?1245325611210",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "45"
+  },
+  {
+    "question": "What is the index of the element with the value of 2? 245105611412",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "45"
   }
 ]
