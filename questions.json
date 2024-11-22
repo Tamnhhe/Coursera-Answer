@@ -1772,5 +1772,33 @@
       "No answer selected"
     ],
     "inputAnswer": "2"
+  },
+  {
+    "question": "every element in an array must be a numeric value.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "what is the value of the element in position 4?1245325611210",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "1"
+  },
+  {
+    "question": "what is the index of the element with the value of 10? 1245325611210",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "6"
+  },
+  {
+    "question": "var myarray  2, 4, 6, 8, 10what is the value of myarray2 ?",
+    "selectedAnswers": [
+      "6"
+    ],
+    "inputAnswer": null
   }
 ]
