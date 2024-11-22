@@ -1770,5 +1770,12 @@
       "No answer selected"
     ],
     "inputAnswer": "45"
+  },
+  {
+    "question": "What is the index of the element with the value of 10? 1245105611412",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "2"
   }
 ]
