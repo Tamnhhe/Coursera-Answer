@@ -1732,13 +1732,6 @@
     "inputAnswer": null
   },
   {
-    "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
-    "selectedAnswers": [
-      "var my_array = document.querySelectorAll(.className)\n\nfirst_element = my_array[0]"
-    ],
-    "inputAnswer": null
-  },
-  {
     "question": "If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:",
     "selectedAnswers": [
       "console.log"
