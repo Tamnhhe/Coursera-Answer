@@ -1704,21 +1704,16 @@
     "inputAnswer": "32"
   },
   {
-    "question": "What is the index of the element with the value of 10? What is the index of the element with the value of 10? \n\n12\n\n\t\n\n45\n\n\t\n\n32\n\n\t\n\n56\n\n\t\n\n1\n\n\t\n\n12\n\n\t\n\n10",
-    "selectedAnswers": null,
-    "inputAnswer": "6"
-  },
-  {
-    "question": "var my_array = [2, 4, 6, 8, 10]\n\nWhat is the value of my_array[4] ?",
+    "question": "var my_array = [2, 4, 6, 8, 10]What is the value of my_array[4] ?",
     "selectedAnswers": [
       "10"
     ],
     "inputAnswer": null
   },
   {
-    "question": "var my_array = [\"cat\", \"dog\", 1, 2]\n\nWhat is the value of my_array.length ?",
+    "question": "var my_array = [2, 4, 6, 8, 10]What is the value of my_array.length ?",
     "selectedAnswers": [
-      "4"
+      "5"
     ],
     "inputAnswer": null
   },
