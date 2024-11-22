@@ -1806,7 +1806,7 @@
     "selectedAnswers": [
       "No answer selected"
     ],
-    "inputAnswer": "1"
+    "inputAnswer": "12"
   },
   {
     "question": "javascript arrays have attributes and methods.",
@@ -1819,6 +1819,27 @@
     "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
     "selectedAnswers": [
       "var my_array = document.getElementById(idName)\n\nfirst_element = my_array[0]"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "what is the value of the element in position 2?1245325611210",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "32"
+  },
+  {
+    "question": "var myarray  2, 4, 6, 8, 10what is the value of myarray5 ?",
+    "selectedAnswers": [
+      "Undefined"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "var myarray  \"cat\", \"dog\", 1, 2what is the value of myarray.length ?",
+    "selectedAnswers": [
+      "4"
     ],
     "inputAnswer": null
   }
