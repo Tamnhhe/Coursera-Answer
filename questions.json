@@ -1914,5 +1914,147 @@
       ],
       "inputAnswer": null
     }
+  ],
+  [
+    {
+      "question": "The default value for the position property is:",
+      "selectedAnswers": [
+        "static"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "What is wrong with this code?1234div{     position: static;     left: 10px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_1:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_1:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_1 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_1 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_1 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_1 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_1:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_1.drop-target,\n\t\t\t\t.monaco-list.list_id_1 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_1 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "The code works, but the left property is not necessary since static elements don't allow offsets"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
+      "selectedAnswers": [
+        "sticky"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Assume that this code is linked together correctly.123456789101112131415p{     color: red;     background: black; }  .fancy{     font-family: cursive;     background: red;     color: green; }  .plain{     font-family: Times, serif;     color: black; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_2:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_2:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_2:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_2:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_2 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_2 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_2 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_2 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_2:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_2.drop-target,\n\t\t\t\t.monaco-list.list_id_2 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_2 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.1<p class = \"fancy plain\">Hi</p>Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_3:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_3:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_3:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_3:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_3 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_3 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_3 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_3 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_3:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_3.drop-target,\n\t\t\t\t.monaco-list.list_id_3 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_3 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What color font is used to display \"Hi\"?",
+      "selectedAnswers": [
+        "green"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "z-index"
+    },
+    {
+      "question": "The # symbol specifies that the selector is a/an",
+      "selectedAnswers": [
+        "id"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "What are the four principles of Accessibility?",
+      "selectedAnswers": [
+        "POUR"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Given this rule:123div{     border-width:10px 3px 5px 9px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_4:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_4:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_4:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_4:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_4 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_4 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_4 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_4 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_4:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_4.drop-target,\n\t\t\t\t.monaco-list.list_id_4 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_4 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.what is the width of the left border?",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "div{ \n    border-width:10px 3px 5px 9px; \n}"
+    },
+    {
+      "question": "Which snippet of CSS is commonly used to center an element horizontally?",
+      "selectedAnswers": [
+        "margin: 0 auto;"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Which of the following is the best way to convey that your text has special meaning?",
+      "selectedAnswers": [
+        "Using semantic tags in addition to color and/or font."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Skip to Main Content is a feature that:",
+      "selectedAnswers": [
+        "Allows keyboard users to easily navigate your site. "
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "The margin is the space between elements.",
+      "selectedAnswers": [
+        "True"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Padding is...",
+      "selectedAnswers": [
+        "The space between an element and its border"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "The padding and margin properties can be styled with unique colors.",
+      "selectedAnswers": [
+        "False."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "How much horizontal space (\"width\") will this div use?123456div{     width:50px;     padding: 10px;     margin: 5px;     border: 2px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_5:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_5:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_5:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_5:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_5 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_5 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_5 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_5 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_5:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_5.drop-target,\n\t\t\t\t.monaco-list.list_id_5 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_5 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "div{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}"
+    },
+    {
+      "question": "How much vertical space (\"height\") will this div use?123456div{     height:50px;     padding: 5px 10px;     margin: 5px;     border: 2px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_6:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_6:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_6:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_6:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_6 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_6 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_6 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_6 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_6:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_6.drop-target,\n\t\t\t\t.monaco-list.list_id_6 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_6 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "div{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}"
+    },
+    {
+      "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
+      "selectedAnswers": [
+        "10px"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Which of the following would be used to create a class called button which has a width of 750px, a height of 30px and the color of the text is black?",
+      "selectedAnswers": [
+        "1\n2\n3\n4\n5\n#button { \n    height: 30px; \n    width: 750px; \n    color: black; \n}"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "How much width will this div occupy?123456div{     width:100px;    padding: 10px;     margin: 5px;     border: 2px; }Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_11:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_11:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_11:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_11:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_11:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_11:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_11:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_11 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_11 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_11 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_11 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_11:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_11.drop-target,\n\t\t\t\t.monaco-list.list_id_11 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_11 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "selectedAnswers": [
+        "134px"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
+      "selectedAnswers": [
+        "10px"
+      ],
+      "inputAnswer": null
+    }
   ]
 ]
