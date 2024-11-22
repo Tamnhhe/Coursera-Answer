@@ -1825,7 +1825,7 @@
     "inputAnswer": "2"
   },
   {
-    "question": "var my_array = [2, 4, 6, 8, 10]\n\nWhat is the value of my_array[4] ?",
+    "question": "var myarray  2, 4, 6, 8, 10what is the value of myarray4 ?",
     "selectedAnswers": [
       "10"
     ],
