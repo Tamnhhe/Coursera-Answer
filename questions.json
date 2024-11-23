@@ -1792,5 +1792,60 @@
       "None of the above; pay level should not be determined based on the role classifications in the Lepak and Snell workforce segmentation framework"
     ],
     "inputAnswer": null
-  }
+  },
+  [
+    {
+      "question": "You're working on a new marketing campaign using AI tools like ChatGPT & DALL-E. How would you define your usage of prompt engineering?",
+      "selectedAnswers": [
+        "A technique to guide generative AI models to produce the outputs you desire."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Which of the following best describes the functionality of ChatGPT and DALL-E?",
+      "selectedAnswers": [
+        "They can both generate text and visual content based on user prompts, understand and respond to prompts in multiple languages, but cannot update their knowledge in real-time."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Which characteristics are crucial for crafting effective prompts?(Select all that apply)",
+      "selectedAnswers": [
+        "Specificity in what is expected from the AI.",
+        "Consideration of the target audience and context",
+        "Clear and concise language."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "Imagine you've been asked to create a persuasive text for a fashion marketing campaign. What would be your primary goal?",
+      "selectedAnswers": [
+        "To engage the audience and motivate them to take action."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "What should be considered when generating visual content for a fashion campaign using DALL-E? (Select all that apply)",
+      "selectedAnswers": [
+        "Current fashion trends",
+        "Target audience",
+        "Brand identity"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "It reduces the need for a marketing team.",
+      "selectedAnswers": [
+        " It allows for creating tailored, engaging content to connect with the target audience."
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "You're using sentiment analysis and A/B testing to optimize a marketing campaign. What can these tools help you achieve?",
+      "selectedAnswers": [
+        "They provide insights to refine and improve campaign elements based on audience response."
+      ],
+      "inputAnswer": null
+    }
+  ]
 ]
