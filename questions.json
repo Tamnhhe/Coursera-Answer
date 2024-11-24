@@ -1698,7 +1698,7 @@
   {
     "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
     "selectedAnswers": [
-      "var my_array = document.getElementById(idName)\n\nfirst_element = my_array[0]"
+      "var my_array = document.querySelector(#idName)\n\nfirst_element = my_array[0]"
     ],
     "inputAnswer": null
   },
@@ -1977,6 +1977,43 @@
       "question": "How much width will this div occupy?123456div{     width:100px;    padding: 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    width:100px;\n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}",
       "selectedAnswers": [
         "134px"
+      ],
+      "inputAnswer": null
+    }
+  ],
+  [
+    {
+      "question": "Which is the proper way to declare an array?",
+      "selectedAnswers": [
+        "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "What is the index of the element with the value of 10? 1245325611210",
+      "selectedAnswers": [
+        "No answer selected"
+      ],
+      "inputAnswer": "6"
+    },
+    {
+      "question": "var my_array = [2, 4, 6, 8, 10]What is the value of my_array[2] ?",
+      "selectedAnswers": [
+        "6"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "var my_array = [\"cat\", \"dog\", 1, 2]What is the value of my_array.length ?",
+      "selectedAnswers": [
+        "4"
+      ],
+      "inputAnswer": null
+    },
+    {
+      "question": "JavaScript Arrays have attributes and methods.",
+      "selectedAnswers": [
+        "True"
       ],
       "inputAnswer": null
     }
