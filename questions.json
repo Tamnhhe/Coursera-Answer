@@ -1846,176 +1846,172 @@
     ],
     "inputAnswer": null
   },
-  [
-    {
-      "question": "The default value for the position property is:",
-      "selectedAnswers": [
-        "static"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "What is wrong with this code?1234div{     position: static;     left: 10px; }\n\ndiv{ \n    position: static; \n    left: 10px; \n}",
-      "selectedAnswers": [
-        "The code works, but the left property is not necessary since static elements don't allow offsets"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
-      "selectedAnswers": [
-        "sticky"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Assume that this code is linked together correctly.123456789101112131415p{     color: red;     background: black; }  .fancy{     font-family: cursive;     background: red;     color: green; }  .plain{     font-family: Times, serif;     color: black; }1<p class = \"fancy plain\">Hi</p>What color font is used to display \"Hi\"?\n\np{ \n    color: red; \n    background: black; \n} \n \n.fancy{ \n    font-family: cursive; \n    background: red; \n    color: green; \n} \n \n.plain{ \n    font-family: Times, serif; \n    color: black; \n}\n\n<p class = \"fancy plain\">Hi</p>",
-      "selectedAnswers": [
-        "green"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
-      "selectedAnswers": [
-        "No answer selected"
-      ],
-      "inputAnswer": "z-index"
-    },
-    {
-      "question": "The # symbol specifies that the selector is a/an",
-      "selectedAnswers": [
-        "id"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "What are the four principles of Accessibility?",
-      "selectedAnswers": [
-        "POUR"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Given this rule:123div{     border-width:10px 3px 5px 9px; }what is the width of the left border?\n\ndiv{ \n    border-width:10px 3px 5px 9px; \n}",
-      "selectedAnswers": [
-        "No answer selected"
-      ],
-      "inputAnswer": "div{ \n    border-width:10px 3px 5px 9px; \n}"
-    },
-    {
-      "question": "Which snippet of CSS is commonly used to center an element horizontally?",
-      "selectedAnswers": [
-        "margin: 0 auto;"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Which of the following is the best way to convey that your text has special meaning?",
-      "selectedAnswers": [
-        "Using semantic tags in addition to color and/or font."
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Skip to Main Content is a feature that:",
-      "selectedAnswers": [
-        "Allows keyboard users to easily navigate your site. "
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "The margin is the space between elements.",
-      "selectedAnswers": [
-        "True"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Padding is...",
-      "selectedAnswers": [
-        "The space between an element and its border"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "The padding and margin properties can be styled with unique colors.",
-      "selectedAnswers": [
-        "False."
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "How much horizontal space (\"width\") will this div use?123456div{     width:50px;     padding: 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}",
-      "selectedAnswers": [
-        "No answer selected"
-      ],
-      "inputAnswer": "div{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}"
-    },
-    {
-      "question": "How much vertical space (\"height\") will this div use?123456div{     height:50px;     padding: 5px 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}",
-      "selectedAnswers": [
-        "No answer selected"
-      ],
-      "inputAnswer": "div{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}"
-    },
-    {
-      "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
-      "selectedAnswers": [
-        "10px"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "Which of the following would be used to create a class called button which has a width of 750px, a height of 30px and the color of the text is black?",
-      "selectedAnswers": [
-        "1\n2\n3\n4\n5\n#button { \n    height: 30px; \n    width: 750px; \n    color: black; \n}"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "How much width will this div occupy?123456div{     width:100px;    padding: 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    width:100px;\n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}",
-      "selectedAnswers": [
-        "134px"
-      ],
-      "inputAnswer": null
-    }
-  ],
-  [
-    {
-      "question": "Which is the proper way to declare an array?",
-      "selectedAnswers": [
-        "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "What is the index of the element with the value of 10? 1245325611210",
-      "selectedAnswers": [
-        "No answer selected"
-      ],
-      "inputAnswer": "6"
-    },
-    {
-      "question": "var my_array = [2, 4, 6, 8, 10]What is the value of my_array[2] ?",
-      "selectedAnswers": [
-        "6"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "var my_array = [\"cat\", \"dog\", 1, 2]What is the value of my_array.length ?",
-      "selectedAnswers": [
-        "4"
-      ],
-      "inputAnswer": null
-    },
-    {
-      "question": "JavaScript Arrays have attributes and methods.",
-      "selectedAnswers": [
-        "True"
-      ],
-      "inputAnswer": null
-    }
-  ]
+  {
+    "question": "The default value for the position property is:",
+    "selectedAnswers": [
+      "static"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is wrong with this code?1234div{     position: static;     left: 10px; }\n\ndiv{ \n    position: static; \n    left: 10px; \n}",
+    "selectedAnswers": [
+      "The code works, but the left property is not necessary since static elements don't allow offsets"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
+    "selectedAnswers": [
+      "sticky"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Assume that this code is linked together correctly.123456789101112131415p{     color: red;     background: black; }  .fancy{     font-family: cursive;     background: red;     color: green; }  .plain{     font-family: Times, serif;     color: black; }1<p class = \"fancy plain\">Hi</p>What color font is used to display \"Hi\"?\n\np{ \n    color: red; \n    background: black; \n} \n \n.fancy{ \n    font-family: cursive; \n    background: red; \n    color: green; \n} \n \n.plain{ \n    font-family: Times, serif; \n    color: black; \n}\n\n<p class = \"fancy plain\">Hi</p>",
+    "selectedAnswers": [
+      "green"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "z-index"
+  },
+  {
+    "question": "The # symbol specifies that the selector is a/an",
+    "selectedAnswers": [
+      "id"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What are the four principles of Accessibility?",
+    "selectedAnswers": [
+      "POUR"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Given this rule:123div{     border-width:10px 3px 5px 9px; }what is the width of the left border?\n\ndiv{ \n    border-width:10px 3px 5px 9px; \n}",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "div{ \n    border-width:10px 3px 5px 9px; \n}"
+  },
+  {
+    "question": "Which snippet of CSS is commonly used to center an element horizontally?",
+    "selectedAnswers": [
+      "margin: 0 auto;"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is the best way to convey that your text has special meaning?",
+    "selectedAnswers": [
+      "Using semantic tags in addition to color and/or font."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Skip to Main Content is a feature that:",
+    "selectedAnswers": [
+      "Allows keyboard users to easily navigate your site. "
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The margin is the space between elements.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Padding is...",
+    "selectedAnswers": [
+      "The space between an element and its border"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The padding and margin properties can be styled with unique colors.",
+    "selectedAnswers": [
+      "False."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How much horizontal space (\"width\") will this div use?123456div{     width:50px;     padding: 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "div{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}"
+  },
+  {
+    "question": "How much vertical space (\"height\") will this div use?123456div{     height:50px;     padding: 5px 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "div{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}"
+  },
+  {
+    "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
+    "selectedAnswers": [
+      "10px"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following would be used to create a class called button which has a width of 750px, a height of 30px and the color of the text is black?",
+    "selectedAnswers": [
+      "1\n2\n3\n4\n5\n#button { \n    height: 30px; \n    width: 750px; \n    color: black; \n}"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "How much width will this div occupy?123456div{     width:100px;    padding: 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    width:100px;\n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}",
+    "selectedAnswers": [
+      "134px"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which is the proper way to declare an array?",
+    "selectedAnswers": [
+      "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the index of the element with the value of 10? 1245325611210",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "6"
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10]What is the value of my_array[2] ?",
+    "selectedAnswers": [
+      "6"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "var my_array = [\"cat\", \"dog\", 1, 2]What is the value of my_array.length ?",
+    "selectedAnswers": [
+      "4"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "JavaScript Arrays have attributes and methods.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  }
 ]
