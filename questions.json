@@ -2041,11 +2041,11 @@
       "1\n2\n3\n4\n5\n#button { \n    height: 30px; \n    width: 750px; \n    color: black; \n}"
     ],
     "inputAnswer": null
-  }
+  },
   {
     "question": "In the following code snippet, what value is given for the bottom margin?margin: 5px 10px 3px 8px;",
     "selectedAnswers": [
-      "No answer selected"
+      "3px"
     ],
     "inputAnswer": null
   }
