@@ -1919,7 +1919,7 @@
   {
     "question": "Skip to Main Content is a feature that:",
     "selectedAnswers": [
-      "Allows keyboard users to easily navigate your site. "
+      "Allows keyboard users to easily navigate your site."
     ],
     "inputAnswer": null
   },
@@ -2018,6 +2018,34 @@
     "question": "Assume that this code is linked together correctly.123456789101112131415p{     color: red;     background: yellow;}  .style1 {     font-family: cursive;     background: red;     color: green; }  .style2 {     font-family: Times, serif;     color: black; }1<p class = \"style1 style2\">Hi</p>What color font is used to display \"Hi\"?\n\np{ \n    color: red; \n    background: yellow;\n} \n \n.style1 { \n    font-family: cursive; \n    background: red; \n    color: green; \n} \n \n.style2 { \n    font-family: Times, serif; \n    color: black; \n}\n\n<p class = \"style1 style2\">Hi</p>",
     "selectedAnswers": [
       "black"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is wrong with this code?1234div{     position: relative;     left: 10px; }\n\ndiv{ \n    position: relative; \n    left: 10px; \n}",
+    "selectedAnswers": [
+      "There is nothing wrong with this code."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Given this rule:123div{     border-width:10px 5px; }what is the width of the right border?\n\ndiv{ \n    border-width:10px 5px; \n}",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "5px"
+  },
+  {
+    "question": "Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?",
+    "selectedAnswers": [
+      "1\n2\n3\n4\n5\n#button { \n    height: 30px; \n    width: 750px; \n    color: black; \n}"
+    ],
+    "inputAnswer": null
+  }
+  {
+    "question": "In the following code snippet, what value is given for the bottom margin?margin: 5px 10px 3px 8px;",
+    "selectedAnswers": [
+      "No answer selected"
     ],
     "inputAnswer": null
   }
