@@ -1949,14 +1949,14 @@
     "selectedAnswers": [
       "No answer selected"
     ],
-    "inputAnswer": "div{ \n    width:50px; \n    padding: 10px; \n    margin: 5px; \n    border: 2px; \n}"
+    "inputAnswer": "84"
   },
   {
     "question": "How much vertical space (\"height\") will this div use?123456div{     height:50px;     padding: 5px 10px;     margin: 5px;     border: 2px; }\n\ndiv{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}",
     "selectedAnswers": [
       "No answer selected"
     ],
-    "inputAnswer": "div{ \n    height:50px; \n    padding: 5px 10px; \n    margin: 5px; \n    border: 2px; \n}"
+    "inputAnswer": "74"
   },
   {
     "question": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px;",
@@ -2011,6 +2011,13 @@
     "question": "JavaScript Arrays have attributes and methods.",
     "selectedAnswers": [
       "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Assume that this code is linked together correctly.123456789101112131415p{     color: red;     background: yellow;}  .style1 {     font-family: cursive;     background: red;     color: green; }  .style2 {     font-family: Times, serif;     color: black; }1<p class = \"style1 style2\">Hi</p>What color font is used to display \"Hi\"?\n\np{ \n    color: red; \n    background: yellow;\n} \n \n.style1 { \n    font-family: cursive; \n    background: red; \n    color: green; \n} \n \n.style2 { \n    font-family: Times, serif; \n    color: black; \n}\n\n<p class = \"style1 style2\">Hi</p>",
+    "selectedAnswers": [
+      "black"
     ],
     "inputAnswer": null
   }
