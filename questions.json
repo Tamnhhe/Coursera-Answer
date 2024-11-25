@@ -2180,7 +2180,9 @@
     "question": "Which of the following are situational factors that can make certain speeches more apprehensive inducing than others?",
     "selectedAnswers": [
       "Degree of evaluation",
-      "Novelty"
+      "Status ",
+      "Novelty",
+      "Formality"
     ],
     "inputAnswer": null
   },
