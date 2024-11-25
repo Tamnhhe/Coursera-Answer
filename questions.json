@@ -2481,7 +2481,6 @@
     "selectedAnswers": [
       "Speakers define values and help the audience better understand those values. ",
       "Speakers display eloquence for the enjoyment of the audience. ",
-      "Speakers identify enemies to the community that the audience are asked to reject. ",
       "Speakers create community that the audiences can share. "
     ],
     "inputAnswer": null
@@ -2548,7 +2547,7 @@
   {
     "question": "When introducing a speaker, aim for comprehensiveness. Make sure to list as many of their accomplishments as possible.",
     "selectedAnswers": [
-      "No answer selected"
+      "false"
     ],
     "inputAnswer": null
   },
