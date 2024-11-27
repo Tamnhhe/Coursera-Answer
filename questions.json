@@ -32940,5 +32940,222 @@
       "Be authentic."
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "(1.5.6) Why is it important for organizations to have clear policies on archival and retention requirements?",
+    "selectedAnswers": [
+      "To comply with legal and regulatory requirements and ensure data availability for audits and investigations"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.2.1) Which of the following frameworks provides information about the attacker as well as tactics, technique, and procedures (TTP)?",
+    "selectedAnswers": [
+      "MITRE ATT&CK"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.5.1) What is the main characteristic of a Type-1 hypervisor?",
+    "selectedAnswers": [
+      "Runs directly on the hardware"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.3.2) How does an audit differ from a security assessment?",
+    "selectedAnswers": [
+      "An audit focuses on compliance with regulations and standards, while a security assessment focuses on identifying vulnerabilities and improving security posture."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.3.2) Which of the following actions can be taken to lock down the enterprise from the possibility of rogue wireless access points (APs)?",
+    "selectedAnswers": [
+      "Enable MAC address filtering on the infrastructure switches."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.2.6) The Trusted Platform Module (TPM) is typically soldered into what?",
+    "selectedAnswers": [
+      "The motherboard"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.8) What is a common electrical problem during which there is a decrease in voltage called?",
+    "selectedAnswers": [
+      "Sag"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.1.4) Which of the following are not cellular protocols?",
+    "selectedAnswers": [
+      "Global Positioning System (GPS)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.5.6) Which of these is an attack that can be targeted at applications?",
+    "selectedAnswers": [
+      "Buffer overflow"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.2.3) Most SCADA systems minimally contain the following components EXCEPT which one?",
+    "selectedAnswers": [
+      "Crankshaft sensor"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.5.1) Port address translation (PAT) provides what service?",
+    "selectedAnswers": [
+      "It changes private addresses to public"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.3.3) As part of identity and access management, how would you define the process of creating or setting up all procedures and tools to manage the life cycle of an identity?",
+    "selectedAnswers": [
+      "Provisioning"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.2.5) A workplace policy where companies provide devices to employees for work purposes while allowing some personal use is known as what?",
+    "selectedAnswers": [
+      "Corporate Owned, Personally Enabled (COPE)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.7) Which of the following represents the main IoT management challenge?",
+    "selectedAnswers": [
+      "Connectivity"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.3.1) What are the three components required to implement an 802.1x solution?",
+    "selectedAnswers": [
+      "A supplicant, an authenticator, and an authentication server"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.1.5) Quantum key distribution can facilitate _____ in the healthcare sector.",
+    "selectedAnswers": [
+      "Remote health and confidential medical records"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.4.1) Augmenting internal, private data center capabilities with managed services during times of increased demand is called what?",
+    "selectedAnswers": [
+      "Cloud bursting"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.1.4) Which of the following establishes a dedicated circuit between endpoints?",
+    "selectedAnswers": [
+      "Circuit-switched network"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(4.2.2) How does hashing help digital investigations?",
+    "selectedAnswers": [
+      "It ensures the integrity of the files."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(4.3.1) If you want to increase backup reliability without having to rely on a chain of backups while keeping costs manageable, which of the following backup methods is your BEST strategy?",
+    "selectedAnswers": [
+      "Full and differential"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.6.2) If session keys are never reused, ciphertext that was captured from previous messages (or from previously encrypted files in storage) cannot be decrypted with any future session key. This is known as what kind of secrecy?",
+    "selectedAnswers": [
+      "Forward"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.5.6) What is it called when an attacker can move between virtual machines in the hypervisor?",
+    "selectedAnswers": [
+      "VM jumping"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.2.1) Which of the following BEST describes the characteristics and implications of one-way, two-way, and transitive trust relationships in Active Directory?",
+    "selectedAnswers": [
+      "In a one-way trust, one domain trusts another, but the trust is not reciprocated; in a two-way trust, both domains trust each other; and in a transitive trust, the trust extends beyond the two directly connected domains."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.1.1) The _________ is hidden from general view, but it can also house data and services of a highly sensitive or sometimes criminal nature.",
+    "selectedAnswers": [
+      "Dark web"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.2) A user has some extremely valuable data. The data is backed up to a flash USB stick and placed in a data safe. Which two principles of the CIA triad does this address?",
+    "selectedAnswers": [
+      "Confidentiality and availability"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.5.6) What are the two storage types that can be used with an infrastructure-as-a-service (IaaS) environment?",
+    "selectedAnswers": [
+      "Volume and object"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.1.1) Your organization wants to improve its cybersecurity defense strategy by better understanding the tactics, techniques, and procedures (TTPs) used by threat actors. You have been asked to implement the MITRE ATT&CK Framework to achieve this goal. During a meeting with your team, members ask about the primary benefits and applications of using the MITRE ATT&CK Framework. Which of the following best describes the PRIMARY purpose of the MITRE ATT&CK Framework?",
+    "selectedAnswers": [
+      "It helps organizations identify, understand, and respond to adversarial behaviors by detailing common tactics, techniques, and procedures (TTPs) used by attackers."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.1.1) What are the signals called from events that suggest a possible change of conditions are occurring?",
+    "selectedAnswers": [
+      "Precursors"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.5) Removing the indirect identifiers to prevent data analysis tools from identifying an individual or sensitive information is called what?",
+    "selectedAnswers": [
+      "Anonymization"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.1.2) Which of the following BEST describes a primary function of Active Directory Federation Services (ADFS)?",
+    "selectedAnswers": [
+      "ADFS enables secure sharing of identity information between trusted partners and supports Single Sign-On (SSO)."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.4.1) What is the main function of a data loss prevention (DLP) tool?",
+    "selectedAnswers": [
+      "To prevent sensitive data leaving the organization"
+    ],
+    "inputAnswer": null
   }
 ]
