@@ -32499,5 +32499,446 @@
       "Elliptic curve cryptography (ECC)"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "(5.2.1) What hashing algorithm was introduced in 2015 and uses the sponge function?",
+    "selectedAnswers": [
+      "SHA-3"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.2.1) Media Access Control Security (MACsec) provides point-to-point security between directly connected nodes and works at what layer of the OSI model?",
+    "selectedAnswers": [
+      "Layer 2"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.4) An intrusion detection system (IDS) is what type of countermeasure?",
+    "selectedAnswers": [
+      "Detective"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.3) Which of the following functions is NOT supported by mobile device management (MDM) solutions?",
+    "selectedAnswers": [
+      "Carrier activation"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.4.2) What type of cloud model provides access to software applications such as email or office productivity tools?",
+    "selectedAnswers": [
+      "Software as a Service (SaaS)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.2.4) What is non-repudiation?",
+    "selectedAnswers": [
+      "Proof of origin"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.5) What is the best method for dealing with data remanence on SSDs?",
+    "selectedAnswers": [
+      "Physical destruction"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.5.6) An organization is proactively and iteratively searching for signs of malicious activities or attackers within their networks and systems. Which of the following is being described?",
+    "selectedAnswers": [
+      "Threat hunting"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.4.3) Which of the following BEST describes the concept of Role-Based Access Control (RBAC) in an organization's IT system?",
+    "selectedAnswers": [
+      "RBAC is a strategy where users are granted access to resources based on their roles within the organization, ensuring that they have only the necessary permissions to perform their job functions."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.1) Doing the right and prudent things to get the job done is known as which of the following?",
+    "selectedAnswers": [
+      "Due care"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.3.2) Which of the following is NOT a phase in ethical penetration testing?",
+    "selectedAnswers": [
+      "Incident Response"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.6.1) At what frequency does Bluetooth transmit?",
+    "selectedAnswers": [
+      "2.4 GHZ"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.8) Fire can be characterized into general types or classes. What type of fire extinguisher can be used for flammable metals?",
+    "selectedAnswers": [
+      "Class D"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.1.1) DNSSEC adds the following features to the DNS protocol EXCEPT for which?",
+    "selectedAnswers": [
+      "Data confidentiality"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.6) A configuration management database (CMDB) allows an organization to do which of the following?",
+    "selectedAnswers": [
+      "All of these"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.8) What system guarantees that continuous power is provided to IT equipment for a brief period, even if the main power source stops providing power?",
+    "selectedAnswers": [
+      "Uninterruptible power supply (UPS)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(4.1.2) Which of the following tools can be used to detect incidents that have occurred?",
+    "selectedAnswers": [
+      "Security Information and Event Management (SIEM) systems"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.4.3) You are the system administrator for your organization. Your security team has difficulty gathering log information during incidents as server and endpoint logs are stored in a variety of places with varying levels of access. What recommendation would you offer leadership to assist with making this process easier?",
+    "selectedAnswers": [
+      "Implement a centralized logging solution, such as a Security Information and Event Management (SIEM) system."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.3.4) Which of the following is the most critical first step when assessing compliance requirements in cybersecurity?",
+    "selectedAnswers": [
+      "Identifying all relevant legal and regulatory frameworks with which the organization must adhere"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.2) Which best describes the concept of availability?",
+    "selectedAnswers": [
+      "Data is available to authorized users when required."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.1.4) The selection of controls is frequently based on what?",
+    "selectedAnswers": [
+      "Cost-benefit analysis"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.5.1) What is the purpose of a security baseline?",
+    "selectedAnswers": [
+      "To define the minimum security standards and configurations necessary to protect the organization’s information systems"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(4.2.1) Which is the correct order of the common digital forensic steps?",
+    "selectedAnswers": [
+      "Identifying, acquiring, analyzing, and presenting the evidence"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.4.2) Your organization decided to lease higher floor suite for the executives. What would you recommend as a solution?",
+    "selectedAnswers": [
+      "VPN"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.4.1) Key-encrypting keys (KEKs) are used as part of ________.",
+    "selectedAnswers": [
+      "Key distribution"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.7) Someone claims to be an IT support worker doing maintenance and asks for your login details. What kind of social engineering attack is this?",
+    "selectedAnswers": [
+      "Impersonation or masquerading"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.4) A TCB consists of all the following EXCEPT for which?",
+    "selectedAnswers": [
+      "People"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.6.1) In wireless technologies, ______ mode is two (or more) wireless devices talking directly together without the need for an access point.",
+    "selectedAnswers": [
+      "Ad-hoc"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.1) Which of the following describes two or more processes that each hold elements of a set of resources that the other needs to complete its own processing?",
+    "selectedAnswers": [
+      "Deadlock"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.4.2) Which of the following scenarios is considered an event of interest?",
+    "selectedAnswers": [
+      "An unscheduled or unanticipated shutdown of servers, endpoints, or links"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.2.3) What is the characteristic of an asymmetric algorithm?",
+    "selectedAnswers": [
+      "It uses a key pair."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.4) What are two primary features found in many trusted computing bases (TCBs)?",
+    "selectedAnswers": [
+      "Trusted path and trusted shell"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.4.4) Which of the following statements BEST distinguishes between rule-based access control and role-based access control?",
+    "selectedAnswers": [
+      "RuBAC assigns permissions based on predefined conditions or rules, while role-based access control assigns permissions based on user roles within an organization."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.3.2) What is a system to protect data in online banking that uses asymmetric encryption and digital certificates to authenticate the identity of parties and encrypt data?",
+    "selectedAnswers": [
+      "Public Key Infrastructure (PKI)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.1.5) What is the transmission distance for multimode fiber?",
+    "selectedAnswers": [
+      "600m"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.3) Why would onboarding be considered necessary when implementing an MDM policy?",
+    "selectedAnswers": [
+      "To track users"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.4) What is an example of a corrective control?",
+    "selectedAnswers": [
+      "All of these"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(4.1.3) Mitigating an attack involves two logically separate incident response tasks—__________ and eradication—which are often done in combination.",
+    "selectedAnswers": [
+      "Containment"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.4.2) User and entity behavior analytics (UEBA) systems typically have the following components EXCEPT which one?",
+    "selectedAnswers": [
+      "Security"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.5.6) What is the storage name for a virtual hard drive that can be attached to a virtual machine (VM) instance and used to host data within a file system?",
+    "selectedAnswers": [
+      "Volume"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.1.1) Which of the following is NOT a social engineering method?",
+    "selectedAnswers": [
+      "Skimming"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.3.2) Which of the following BEST describes the concept of identity proofing and its primary purpose?",
+    "selectedAnswers": [
+      "Identity proofing is the process of verifying an individual's identity to ensure that the person is who they claim to be before granting access to services or systems."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.1.1) What is the PRIMARY purpose of a Common Vulnerability Scoring System (CVSS)?",
+    "selectedAnswers": [
+      "It provides a mechanism to assess different aspects of software vulnerabilities."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.3.1) The ESP protocol provides data confidentiality (encryption) and which of the following?",
+    "selectedAnswers": [
+      "Authentication"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.3.1) The Authentication Header (AH) provides what?",
+    "selectedAnswers": [
+      "Payload integrity"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.4) The following are essential characteristics of the cloud, EXCEPT which one?",
+    "selectedAnswers": [
+      "Limited network access"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.2.1) The attacker is coupling exploit with backdoor into deliverable payload. What type of attack strategy is being used:",
+    "selectedAnswers": [
+      "Cyber Kill Chain"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.1.4) Which two elements are essential to determining quantitative risk?",
+    "selectedAnswers": [
+      "Asset Value (AV) and Exposure Factor (EF)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.8) What water-based suppression system, when activated by a heat or fire sensor, makes all sprinkler heads simultaneously active, putting out large amounts of water or foam when the central valve is opened?",
+    "selectedAnswers": [
+      "Deluge"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.5) How would you define recognizing impacts to an organization if its information suffers any security compromise to its related characteristics (e.g., confidentiality, integrity, availability, non-repudiation, authenticity, privacy, safety)?",
+    "selectedAnswers": [
+      "Categorization"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.6.2) The Wi-Fi Protected Access 3 (WPA3) handshake was shown in 2019 to be vulnerable to an attack named__________.",
+    "selectedAnswers": [
+      "Dragonblood"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(3.3.2) Which of the following tools is used to audit wireless networks and provide insights into the security of the network?",
+    "selectedAnswers": [
+      "Aircrack-ng"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.1) Which of the following is the primary action of a malicious code attack?",
+    "selectedAnswers": [
+      "Payload"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.1.2) What is the main challenge to ensuring data availability in cryptography?",
+    "selectedAnswers": [
+      "Ensuring data is accessible and usable by authorized parties"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.6.1) Which role in the change management process is primarily responsible for reviewing and approving changes to ensure they align with business objectives?",
+    "selectedAnswers": [
+      "Change Advisory Board (CAB)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(2.1.1) How can you prevent a replay attack?",
+    "selectedAnswers": [
+      "Use the Challenge-Handshake Authentication Protocol (CHAP)."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(1.2) Based on GDPR roles and responsibilities regarding personal data protection, who determines the purposes and means for any actions involved with the use of personal data?",
+    "selectedAnswers": [
+      "Data controller"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.4.2) Within SaaS, what is the delivery model used?",
+    "selectedAnswers": [
+      "Hosted application management"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.2.1) Which of the following is a type of denial-of-service (DoS) or distributed denial-of-service (DDoS) attack that sends massive numbers of requests to a server to overwhelm it with open connections?",
+    "selectedAnswers": [
+      "SYN flood"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(7.1) A software that is transmitted across a network and executed on a local system without explicit installation by the recipient is called what?",
+    "selectedAnswers": [
+      "Mobile code"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(6.2) _______ occurs when the attacker establishes a value for a user session ID and sends it to the user (such as by email, with a link). When the user logs on, the session ID is already set by the attacker, and they can capture other data or hijack the session.",
+    "selectedAnswers": [
+      "Session fixation"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(5.1.3) The key used in a cryptographic operation is also called what?",
+    "selectedAnswers": [
+      "Cryptovariable"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "(4.2.2) Which of the following is an accepted rule of evidence?",
+    "selectedAnswers": [
+      "Be authentic."
+    ],
+    "inputAnswer": null
   }
 ]
