@@ -33297,5 +33297,12 @@
       "True"
     ],
     "inputAnswer": null
-  }
+  },
+  {
+    "question": "Which CSS3 property is used to center text? (Provide only the property, not the value!)",
+    "Type": 1,
+    "inputAnswer": [
+      "text-align"
+    ]
+  },
 ]
