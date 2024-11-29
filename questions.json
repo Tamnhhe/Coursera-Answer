@@ -33304,5 +33304,26 @@
     "inputAnswer": [
       "text-align"
     ]
+  },
+  {
+    "question": "What is wrong with the following rule?12345body{     color: #000000;     background-color:#FFFFFF;     font-family: Times, Arial, Cursive; }",
+    "selectedAnswers": [
+      "Nothing - This is a valid rule"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Assume the following rule is the only one that styles the body element:123body{     font-family: Cursive, Helvetica, Verdana; }What happens if the browser doesn't support any of these font families?",
+    "selectedAnswers": [
+      "The text will be displayed in the default browser font-family"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color defined in the <style> tag?12345678910 <head>      <meta charset = \"UTF-8\">      <title>Test code</title>      <link rel \"stylesheet\" href = \"style.css\">      <style>         body{             background-color: #44CCDD;         }     </style>  </head>",
+    "selectedAnswers": [
+      "<style>"
+    ],
+    "inputAnswer": null
   }
 ]
