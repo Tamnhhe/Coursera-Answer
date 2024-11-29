@@ -16258,13 +16258,6 @@
     ]
   },
   {
-    "question": "Which CSS3 property is used to center text? (Provide only the property, not the value!)",
-    "Type": 2,
-    "selectedAnswers": [
-      "text-align"
-    ]
-  },
-  {
     "question": "The text-decoration property is used to style links with an underline.",
     "Type": 3,
     "selectedAnswers": [
