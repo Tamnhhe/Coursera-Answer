@@ -33157,5 +33157,145 @@
       "To prevent sensitive data leaving the organization"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is NOT an option for specifying a color in CSS3?",
+    "selectedAnswers": [
+      "binary"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "If your body tag uses the style attribute style=\"text-align:center\", you can overwrite that property by using the CSS3 rule:body{ text-align: left; }",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is wrong with the following rule?12345body{     color: #000000;     background-color:#FFFFFF;     font-family: Times, Arial, Cursive; }\n\nbody{ \n    color: #000000; \n    background-color:#FFFFFF; \n    font-family: Times, Arial, Cursive; \n}",
+    "selectedAnswers": [
+      "Nothing - This is a valid rule"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Assume the following rule is the only one that styles the body element:123body{     font-family: Cursive, Helvetica, Verdana; }What happens if the browser doesn't support Cursive or Helvetica?\n\nbody{ \n    font-family: Cursive, Helvetica, Verdana; \n}",
+    "selectedAnswers": [
+      "The text will be displayed in Verdana"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The browser defaults override rules specified in an external stylesheet.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color defined in the <style> tag?12345678910 <head>      <meta charset = \"UTF-8\">      <title>Test code</title>      <link rel \"stylesheet\" href = \"style.css\">      <style>         body{             background-color: #44CCDD;         }     </style>  </head>\n\n<head> \n     <meta charset = \"UTF-8\"> \n     <title>Test code</title> \n     <link rel \"stylesheet\" href = \"style.css\"> \n     <style> \n        body{ \n            background-color: #44CCDD; \n        } \n    </style> \n </head>",
+    "selectedAnswers": [
+      "<style>"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The default display value for the  <a> element is:",
+    "selectedAnswers": [
+      "inline"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The default display value for <span> is:",
+    "selectedAnswers": [
+      "inline"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "A block element takes up the full width of its parent, even if the content is smaller than the parent. So two block elements at the same time will not be side-by-side.",
+    "selectedAnswers": [
+      " True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Inline elements take up the full width of the browser, even if the content is smaller than the browser size.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which CSS3 property is used to center text? (We are only asking about the property name; not the value.)",
+    "selectedAnswers": [
+      "text-align"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is the best way to convey that your text has special meaning?",
+    "selectedAnswers": [
+      "Using semantic tags in addition to color and/or font."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the correct HTML for referring to an external style sheet?",
+    "selectedAnswers": [
+      "<link rel=\"stylesheet\" href=\"mystyle.css\">"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the correct HTML for referring to an external style sheet stored in a subfolder called css?",
+    "selectedAnswers": [
+      "<link rel=\"stylesheet\" href=\"css/mystyle.css\">"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "The link to the external style sheet should be in the:",
+    "selectedAnswers": [
+      "Meta-data - <head>"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Using the style attribute allows you to style many pages with only a few lines of code.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "When creating a CSS rule you need to specify the selector, property, and _______.",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Value"
+  },
+  {
+    "question": "You can use the Inspect Element tool in your browser to see your CSS rules.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "CSS stands for Cascading Style Sheets.  This is because the webpage style can come from many different sources.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
   }
 ]
