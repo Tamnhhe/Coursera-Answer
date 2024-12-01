@@ -33255,5 +33255,144 @@
       "<style>"
     ],
     "inputAnswer": null
+  },
+  {
+    "question": "The logical (intended) dependency is that observer depends on subject.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Up until now, the great state of Foo has held a lottery to help fund education in the state. The corporation tasked with the drawing of these numbers (the non-televised ones) is XYZ Numerical Tasking.  You are the technical lead for the system which handles the drawings for the state's lotteries. One of your developers, with a mathematical tilt, comes to you with a proposal: change how the random numbers are generated. \n\nHe suggests that the generation of random numbers could be better. NASA has released a random number generator which has been proven to be better than the one used by the company. He suggests that you make the change. \n\nOne of your more senior developers notes that using the new generator will require a change. He suggests that the team connect the existing lotto system, as seen in Figure 1, to the new generator (Figure 2) using the Facade pattern. \n\nFigure 1 \n\nFigure 2\n\n \n\nFacade, which seeks to simplify complex processes for a client by providing a API which hides the complicated calls/work needed, doesn't seem to fit.  \n\nWhat pattern does?",
+    "selectedAnswers": [],
+    "inputAnswer": "Adapter",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/r8pekMhJT-SKXpDISW_khg_b4b50ea6617588fefd9a22519c8733c7_is_Facade_the_best_choice_figure1.png?expiry=1733184000000&hmac=q6d-IhkkFuYkhDoJpjHof1V-3YqNFbknIyiJOjBFtD0",
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GXywhQPpSfe8sIUD6Tn3yQ_195a2e1f3d40df60d0f0d7911b6d2742_is_Facade_the_best_choice_figure2.png?expiry=1733184000000&hmac=8dMMhFCkqFFGIM58E9FN8949ddlGSn9s_PAbR1EsUrw"
+    ]
+  },
+  {
+    "question": "Within the Custodial Management System, there are are a variety of items that are being watched at any given time. Certain items can receive notifications that a response is needed immediately (rather than just tracking whether the regular upkeep has been done that week/month/etc.). These items may then need one of several possible actions: rapid cleaning, bodily fluid containment and/or removal, addressing traction/slip-danger, urgent repair, etc. Each of these actions fit the same profile (action) but not necessarily the same steps.\n\nWhich pattern would fit well as a solution to this systems needs?",
+    "selectedAnswers": [],
+    "inputAnswer": "Observer",
+    "figures": []
+  },
+  {
+    "question": "Early in our proof-of-concept work on the new game we are building, we effectively hard-coded the game to ask the user what action to take next, for both players. In this case, both users are tied into a single account, so that we can play against ourselves while we build out the game.\n\nNow, however, we want to add a new player type to the system, EasyDifficultyBot. While the \"player\" actions fit the same high-level format for both humans and our AI, the details of making it happen vary pretty widely.\n\nIn order to allow for this change, we want to make use of a pattern that will allow this kind of expansion while minimizing changes to the existing code.\n\nWhat pattern would be best here?",
+    "selectedAnswers": [],
+    "inputAnswer": "Strategy",
+    "figures": []
+  },
+  {
+    "question": "Consider the statement \"In the Strategy pattern, the context should hold references to the ConcreteStrategies.\"\n\nUnder what circumstances would this be true? Select all that apply.",
+    "selectedAnswers": [
+      "When the context is tasked with deciding which strategy to use"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Once a class has been had an Adapter pattern solution applied, it cannot be adapted again.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Factories are no longer useful when you apply the Strategy Pattern to a family of algorithms.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Observer is an implementation of the Dependency Inversion principle.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Strategy Pattern helps maintain the Open/Closed Principle.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Notes: For questions 11-14, the diagram is a standard UML Class Diagram. You can view a larger version by right clicking and selecting \"View image\" (or similar) or by holding on the image and selecting \"Open image in new tab\" (or similar) if you're on mobile. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).\n\nFor the following class diagram, calculate the Instability value for the Bus class.",
+    "selectedAnswers": [],
+    "inputAnswer": ".714",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Rb2kUH-OQly9pFB_jnJcTQ_9c16957f5ee2aadbcaa2c649356c945b_Transit_Sim_class_diagram.png?expiry=1733184000000&hmac=QFTLTGLzxA7KREtV9D6FE7bG9VKhc_k7jJRDHk7kBiI"
+    ]
+  },
+  {
+    "question": "For the following class diagram, calculate the Instability value for the Stop class. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).",
+    "selectedAnswers": [],
+    "inputAnswer": ".333",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Rb2kUH-OQly9pFB_jnJcTQ_9c16957f5ee2aadbcaa2c649356c945b_Transit_Sim_class_diagram.png?expiry=1733184000000&hmac=QFTLTGLzxA7KREtV9D6FE7bG9VKhc_k7jJRDHk7kBiI"
+    ]
+  },
+  {
+    "question": "For the following class diagram, calculate the Instability value for the PassengerUnloader class. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).",
+    "selectedAnswers": [],
+    "inputAnswer": ".5",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Rb2kUH-OQly9pFB_jnJcTQ_9c16957f5ee2aadbcaa2c649356c945b_Transit_Sim_class_diagram.png?expiry=1733184000000&hmac=QFTLTGLzxA7KREtV9D6FE7bG9VKhc_k7jJRDHk7kBiI"
+    ]
+  },
+  {
+    "question": "For the following class diagram, calculate the Instability value for the Simulator class. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable). (Hint: LocalSimulator depends on Simulator; which type of coupling is this?)\n\nNote: Simulator does not depend on ConfigManager; the arrow should go by it on its way to Stop.",
+    "selectedAnswers": [],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Rb2kUH-OQly9pFB_jnJcTQ_9c16957f5ee2aadbcaa2c649356c945b_Transit_Sim_class_diagram.png?expiry=1733184000000&hmac=QFTLTGLzxA7KREtV9D6FE7bG9VKhc_k7jJRDHk7kBiI"
+    ]
+  },
+  {
+    "question": "While calculating LCOM4, we ignore constructors and destructors. Constructors and destructors frequently set and clear all variables in the class, making all methods connected through these variables, which increases cohesion artificially.\n\nLCOM4 = 1 indicates a cohesive class, which is the \"good\" class.\n\nLCOM4 >= 2 indicates a problem. The class should be split into so many smaller classes.\n\nLCOM4 = 0 happens when there are no methods in a class. This is also a \"bad\" class.\n\nCalculate the value of the LCOM4 measurement for the following code:\n\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n  destination_stop_index_++;\n  if (destination_stop_index_ < num_stops_) {\n    std::list<Stop *>::const_iterator iter = stops_.begin();\n    std::advance(iter, destination_stop_index_);\n    destination_stop_ = *iter;\n  } else {\n    destination_stop_ = (*stops_.end());\n  }\n}\n \nStop * Route::GetDestinationStop() const {\n  return destination_stop_;\n}\n \ndouble Route::GetTotalRouteDistance() const {\n  int total_distance = 0;\n  for (std::list<double>::const_iterator iter = distances_between_.begin();\n      iter != distances_between_.end();\n      iter++) {\n    total_distance += *iter;\n  }\n  return total_distance;\n}\n \ndouble Route::GetNextStopDistance() const {\n  std::list<double>::const_iterator iter = distances_between_.begin();\n  std::advance(iter, destination_stop_index_-1);\n  return *iter;  // resolving the iterator gets you the Stop * from the list\n}\n \nint Route::GenerateNewPassengers() {\n  // returning number of passengers added by generator\n  return generator_->GeneratePassengers();\n}",
+    "selectedAnswers": [],
+    "inputAnswer": "#include \"src/route.h\"\n\nRoute::Route(std::string name, Stop ** stops, double * distances, \n    int num_stops, PassengerGenerator * generator) {\n  //Constructors ignored in LCOM4 calculation\n}\n\nvoid Route::Update() {\n  GenerateNewPassengers();\n  for (std::list<Stop *>::iterator it = stops_.begin();\n",
+    "figures": []
+  },
+  {
+    "question": "Cyclomatic complexity is calculated by the formula:\n\nM = E − N + 2P,\n\nwhere \n\nE = the number of edges of the graph.\n\nN = the number of nodes of the graph.\n\nP = the number of \nconnected components\n.  \n\nCalculate the cyclomatic complexity for the following control flow graph:",
+    "selectedAnswers": [],
+    "inputAnswer": "3",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/F-Rwvk-DT2OkcL5Pg_9jyg_cf5f832e270965887df4327430562215_wiki_cfg_1_ans-3.png?expiry=1733184000000&hmac=9MJDbaSiZryBSWcbWHmA7NVRKg_3IgIqW_4aXDgIDdQ"
+    ]
+  },
+  {
+    "question": "Cyclomatic complexity is calculated by the formula:\n\nM = E − N + 2P,\n\nwhere \n\nE = the number of edges of the graph.\n\nN = the number of nodes of the graph.\n\nP = the number of \nconnected components\n.  \n\nCalculate the cyclomatic complexity for the following control flow graph:",
+    "selectedAnswers": [],
+    "inputAnswer": "4",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Ok_GuSdWRDmPxrknVkQ5cQ_0dc74e297f313b5fb6c88b70c01d927e_wiki_cfg_2_ans-4.png?expiry=1733184000000&hmac=eY8bx1hBLNjYI_OuB3dWHZYiAV1b9JpkRdjXvniEAWw"
+    ]
+  },
+  {
+    "question": "Cyclomatic complexity is calculated by the formula:\n\nM = E − N + 2P,\n\nwhere \n\nE = the number of edges of the graph.\n\nN = the number of nodes of the graph.\n\nP = the number of \nconnected components\n.  \n\nCalculate the cyclomatic complexity for the following control flow graph:",
+    "selectedAnswers": [],
+    "inputAnswer": "4",
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nRqvvA5zTr6ar7wOcy6-Jw_4816cf7d411e138d8936d68a1203e830_wiki_cfg_3_ans-4.png?expiry=1733184000000&hmac=d7NqqeOWBvwVTsGv_tLQU9hGZ0tDfAmN3FT13I47tMQ"
+    ]
   }
 ]
