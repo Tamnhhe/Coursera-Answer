@@ -33474,5 +33474,560 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "Is the underlined verb in the correct form?\n\nMichael has already been exercising several times today.",
+    "selectedAnswers": [
+      "correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the underlined verb in the correct form?\n\n\nOur baby has been crying a lot every day. She must be getting a new tooth.",
+    "selectedAnswers": [
+      "correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the underlined verb in the correct form?\n\nA: Why do you look so tired?\n\nB: I have been studying all night.",
+    "selectedAnswers": [
+      "correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of this sentence?\n\nRon’s plane will have left when we arrive at the airport.",
+    "selectedAnswers": [
+      "Correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of this sentence?\n\nI told my boss that I will have been working as hard as\nI can every day next week until we finish the project.",
+    "selectedAnswers": [
+      "Not correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of the sentence below?\n\nShe hadn't been feeling well, so we just stayed home and watched TV.",
+    "selectedAnswers": [
+      "correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of the sentence below?\n\nYesterday, I had been sleeping all day.",
+    "selectedAnswers": [
+      "not correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of the sentence below?\n\nI don't know what we will have been doing next weekend, but I know it will be fun.",
+    "selectedAnswers": [
+      "not correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of the sentence below?\n\nI fell asleep during the speech because the speaker will have been speaking for two hours.",
+    "selectedAnswers": [
+      "not correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the grammar correct in the underlined section of the sentence below?\n\nAfter this song ends, I will have been sing for almost an hour.",
+    "selectedAnswers": [
+      "not correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nAllie tripped and broke her ankle. She _________________ more careful.",
+    "selectedAnswers": [
+      "should have been"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nI couldn't go to your party because I ___________________.",
+    "selectedAnswers": [
+      "had to work"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nJohn's hair is shorter today. He ___________________ a haircut.",
+    "selectedAnswers": [
+      "must have gotten"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nSomeone sent me flowers today for my birthday, but it __________________ Andy because he doesn't know when my birthday is.",
+    "selectedAnswers": [
+      "couldn't have been"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nJill looks hot and sweaty. She ______________________ just now.",
+    "selectedAnswers": [
+      "might have been running"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nJane's cold got worse because she didn't see her doctor when her cough started. She ____________________ to see the doctor immediately.",
+    "selectedAnswers": [
+      "ought to have gone"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nThat table is not very strong. It ____________________ of soft wood.",
+    "selectedAnswers": [
+      "is made"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nI went horseback riding, and my horse ______________________ by a snake.",
+    "selectedAnswers": [
+      "was bitten"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nOur window ____________________ in the storm last night.",
+    "selectedAnswers": [
+      "was broken"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the following sentence.\n\nThat chicken recipe ______________________________ in our restaurant for many years.",
+    "selectedAnswers": [
+      "has been being used"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentences below and choose the best verb to fill in the blank.\n\nOn\nthis day next year, Ashley will have been working here for 10 years. Then she\nwill celebrate.\n\nAfter Ashley  _____________________ (work) here for 10\nyears, she will celebrate.",
+    "selectedAnswers": [
+      "works"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentences below and choose the best verb to fill in the blank.\n\nOn\nthis day next year, Ashley will have been working here for 10 years. Then she\nwill celebrate.\n\nAshley will have been working\nhere for 10 years before she______________.",
+    "selectedAnswers": [
+      "celebrates"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentences below and choose the best verb to fill in the blank.\n\nNick\nis drinking smoothies.  He has already\ndrunk 2 and he will drink one more soon.\n\nNick ______________3 smoothies by\nthe time his train arrives at the station.",
+    "selectedAnswers": [
+      "will have drunk"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nMy boss ______________ mad at me because I _____________ to the office late all week.",
+    "selectedAnswers": [
+      "is, have been coming"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nBecause my mom already ______________ dinner, I _______________ to go out to eat with you.",
+    "selectedAnswers": [
+      "cooked, won't be able"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nI ________________ some money with me because I ________________ a new phone.",
+    "selectedAnswers": [
+      "brought, am going to buy"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nAfter you ________________ home from the airport, we ________________ a party for you.",
+    "selectedAnswers": [
+      "come, will have"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nLiz ______________ home because she ______________ enough money for a taxi. She _______________ me.",
+    "selectedAnswers": [
+      "had to walk, didn't have, should have called"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nIf he __________________ to dance, then why __________________ to the night club?",
+    "selectedAnswers": [
+      "doesn't like, did he come"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the sentence below and choose the best verbs to fill in the blanks. The first verb is for the first blank and so on.\n\nBrian ________________ pizza, but he ________________ it because he ________________ to get ice-cream later.",
+    "selectedAnswers": [
+      "loves, didn't order, wants"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best conjunction to complete the sentence.\n\nI watched too much TV, ________ my eyes are hurting.",
+    "selectedAnswers": [
+      "so"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best conjunction to complete the sentence.\n\nI don't like smoking, ________ do I like drinking alcohol.",
+    "selectedAnswers": [
+      "nor"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best conjunction to complete the sentence.\n\nI didn't ask for anymore coffee, ________ the waitress filled my cup anyway.",
+    "selectedAnswers": [
+      "but"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the following sentence parallel?\n\nWorking long hours and not eating well are bad habits for a healthy life.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the following sentence parallel?\n\nMy son walked to school and losing his backpack.",
+    "selectedAnswers": [
+      "No"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the following sentence parallel?\n\nGetting enough sleep, taking a walk in the morning, and eating a good breakfast give me enough energy to get through my busy day.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best pair of correlative conjunctions to complete the sentence.\n\nJane called ___________ her brother ___________ her parents after the earthquake.",
+    "selectedAnswers": [
+      "both...and"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best pair of correlative conjunctions to complete the sentence.\n\nIf you want to graduate on time, you need to ___________ pass all your classes this semester ___________ take extra classes next semester.",
+    "selectedAnswers": [
+      "either...or"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best pair of correlative conjunctions to complete the sentence.\n\nThe police officer stopped me because I was ________ driving too fast ________ driving recklessly.",
+    "selectedAnswers": [
+      "both...and"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence completion.\n\nWe hiked all day. As a result, _____________.",
+    "selectedAnswers": [
+      "we were exhausted"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence completion.\n\nThis song reminds me of some good memories of high school. Moreover, ______________.",
+    "selectedAnswers": [
+      "it reminds me of my best friend from childhood"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the sentences that have the transition in a correct position. Choose all that apply.",
+    "selectedAnswers": [
+      "A hurricane recently swept through this area. Some areas at low elevations, therefore, are flooded.",
+      "Matt and Claudia are avid rock climbers. Their son, furthermore, also likes rock climbing."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Decide if the transition is in a correct position in the sentence.",
+    "selectedAnswers": [
+      "John has been trying to improve his diet. To illustrate, recently he has cut out soda, candy, and most food containing sugar."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the sentence that has both correct punctuation and correct meaning.",
+    "selectedAnswers": [
+      "The earth rotates on a tilt; as a result, different hemispheres experience different seasons."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the sentence.\n\n_______________ New York City, Chicago also has many tall buildings.",
+    "selectedAnswers": [
+      "Similar to"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the sentence.\n\nWe didn't go to the concert in Central Park _____________ the rain.",
+    "selectedAnswers": [
+      "because of"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Does the following sentence need a comma added or not?\n\nI will run a race next weekend in spite of twisting my ankle last week.",
+    "selectedAnswers": [
+      "No, a comma is not needed."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Does the following sentence need a comma added or not?\n\nSimilar to the traffic in New York City Los Angeles also has a lot of traffic.",
+    "selectedAnswers": [
+      "Yes, a comma is needed."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the comma in the correct place in this sentence?\n\nIn spite of, the cold weather we will have a picnic in the park.",
+    "selectedAnswers": [
+      "No"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which part of this sentence is a dependent clause?\n\nIn addition, my boss gave me a week off from work because I have been working so hard.",
+    "selectedAnswers": [
+      "because I have been working so hard"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which part of this sentence is a dependent clause?\n\nI went to an eye doctor after I got a chemical in my eye.",
+    "selectedAnswers": [
+      "after I got a chemical in my eye"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the punctuation correct in this sentence?\n\nI don't like to exercise at night because it makes me have trouble falling asleep.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the punctuation correct in this sentence?\n\nIf you don't do well on this test, you should study harder for the next one.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is the punctuation correct in this sentence?\n\nI spent many hours studying for this test while my friend didn't even open a book.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are subordinating conjunctions? Choose all that apply.",
+    "selectedAnswers": [
+      "before",
+      "even though",
+      "while"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which sentence is not correct?",
+    "selectedAnswers": [
+      "I am going to go swimming this afternoon even though rain."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is this sentence correct or incorrect?\n\nI cannot join the soccer game because I sprained my ankle last week.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is this sentence correct or incorrect?\n\nI will apply to graduate school in the fall provided that I pass all my classes this semester.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is this sentence correct or incorrect?\n\nIn the event that\nthere is an emergency, you can call this phone number.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Can the adverb clause in this sentence be reduced?\n\nBefore we eat breakfast, we need to do some chores.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Can the adverb clause in this sentence be reduced?\n\nAfter Mr. Smith finished teaching his class, he went to the office to make a phone call.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Can the adverb clause in this sentence be reduced?\n\nBecause I hadn't brought my purse, my friend had to pay for my lunch.",
+    "selectedAnswers": [
+      "No"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Can the adverb clause in this sentence be reduced?\n\nSince I moved into my new apartment, I have been busy unpacking boxes.",
+    "selectedAnswers": [
+      "Yes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the original adverb clause for the reduced clause in this sentence.\n\nWhile living in Hawaii, my grandmother met several celebrities.",
+    "selectedAnswers": [
+      "While she was living in Hawaii"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the original adverb clause for the reduced clause in this sentence.\n\nNot having any more work to do, I went home early.",
+    "selectedAnswers": [
+      "Since I didn’t I have any more work to do"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the correct reduction.\n\nBecause the doctor was meeting a new patient, she studied the patient’s chart carefully.",
+    "selectedAnswers": [
+      "None of these is correct."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Decide if the reduction is correct for this sentence.\n\nBefore I woke up this morning, I received 3 phone calls.\n\nREDUCTION: Waking up this morning, I received 3 phone calls.",
+    "selectedAnswers": [
+      "NO, this is not a correct reduction."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Decide whether the following adverb clause can be reduced to start with Having + Past Participle.\n\nBecause the teacher assigned too much homework the night before, she decided to give the students a break the following evening.",
+    "selectedAnswers": [
+      "Yes—We can start with having + past participle."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the original adverb clause for the reduced clause in this sentence.\n\nHaving only one pair of glasses, Fred has to be careful not to lose them.",
+    "selectedAnswers": [
+      "Because he had only one pair of glasses"
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
