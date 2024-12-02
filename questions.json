@@ -34029,5 +34029,325 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "Identify which part of speech the underlined noun clause is in the sentence below.\n\nLast night, my only concern was whether I would get enough sleep or not.",
+    "selectedAnswers": [
+      "subject complement"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Identify which part of speech the underlined noun clause is in the sentence below.\n\nThat you were up all night coughing and sneezing might mean that you have a cold.",
+    "selectedAnswers": [
+      "subject"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Identify which part of speech the underlined noun clause is in the sentence below.\n\nJason thinks you are a nice person and a good friend.",
+    "selectedAnswers": [
+      "object"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the question. Then complete the response with the correct noun clause.\n\n“Can you give me a ride to work tomorrow?”\n\nI’ll let you know this afternoon _______.",
+    "selectedAnswers": [
+      "if I can give you a ride"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the question. Then complete the response with the correct noun clause.\n\n“Do we have any homework due tomorrow?\n\nYou should know __________!",
+    "selectedAnswers": [
+      "if we have any homework or not"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Read the question. Then complete the response with the correct noun clause.\n\n\"What is the name of that restaurant?\"\n\nI don't know __________.",
+    "selectedAnswers": [
+      "what the name is"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "True or false?\n\nNoun clauses that begin with “if” or “whether” are for\nembedded “yes/no” questions.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "True or false?\n\nThe word “whether” can be substituted by the phrase “whether or not” when used in a sentence.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the word to complete the sentence correctly.\n\nI understand _________ you had a long day and don't feel like cooking dinner.",
+    "selectedAnswers": [
+      "that"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the word to complete the sentence correctly.\n\nI know __________ you can buy a new car for a good price.",
+    "selectedAnswers": [
+      "if"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the sentence below that correctly reports the teacher's quoted sentence.\n\nTeacher: \"You will need to study more if you want to pass.\"\n\nStudent A: \"What did the teacher say yesterday?\"\n\nStudent B: \"She said _______________.\"",
+    "selectedAnswers": [
+      "that we would need to study more if we want to pass"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the sentence below that correctly reports this quoted sentence.\n\nBill: \"My doctor gave me some medicine.\"",
+    "selectedAnswers": [
+      "Bill said that his doctor gave him some medicine."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the sentence below that correctly reports this quoted sentence.\n\nMy mother: \"You haven't cleaned your room in over a week.\"",
+    "selectedAnswers": [
+      "My mom said that I hadn't cleaned my room in over a week."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best reduction of the noun clause in this sentence. If it is not possible to reduce to an infinitive, choose “not possible.”\n\nI hope that I can find a new job before next month.",
+    "selectedAnswers": [
+      "I hope to find a new job before next month."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best reduction of the noun clause in this sentence. If it is not possible to reduce to an infinitive, choose “not possible.”\n\nShe promised that she would close the door when she left our apartment.",
+    "selectedAnswers": [
+      "She promised to close the door when she left our apartment."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best reduction of the noun clause in this sentence. If it is not possible to reduce to an infinitive, choose “not possible.”\n\nRobert asked that his brother not fight with him anymore.",
+    "selectedAnswers": [
+      "Robert asked his brother not to fight with him anymore."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Can this verb be followed by a noun clause that is reduced to a gerund phrase? \n\nmention",
+    "selectedAnswers": [
+      "Yes, it can be followed by a gerund."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Does this verb require a pronoun after it when reducing a noun clause to a gerund?\n\nsuggest",
+    "selectedAnswers": [
+      "Yes, it does when the subjects are different."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Does this verb require a pronoun after it when reducing a noun clause to a gerund?\n\nrecommend",
+    "selectedAnswers": [
+      "Yes, it does when the subjects are different."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the correct reduction for this sentence.\n\nI recommend that we stay home tonight and watch movies.",
+    "selectedAnswers": [
+      "I recommend our staying home tonight and watching movies."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nI look forward to ___________\nthe new year may bring.",
+    "selectedAnswers": [
+      "whatever"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\n I think this painting would look great over the sofa, but you can put it __________ you want.",
+    "selectedAnswers": [
+      "wherever"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is a comma needed in this sentence?\n\nYou will lose my trust if you lie to me again.",
+    "selectedAnswers": [
+      "No comma needed"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Is a comma needed in this sentence?\n\nPlease\ndon’t hesitate to contact me if you have any questions or concerns.",
+    "selectedAnswers": [
+      "No comma needed"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nShe will help us with our homework only if ___________ her use our iPad.",
+    "selectedAnswers": [
+      "we let"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nOnly if we work hard, ____________ finish building the fence today.",
+    "selectedAnswers": [
+      "will we"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nThe older I become, the more I wish I ___________ my youth.",
+    "selectedAnswers": [
+      "had treasured"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nI am a vegetarian, but when I go to the famous In N’ Out Restaurant in California and smell their class hamburgers, I wish I _____________ meat.",
+    "selectedAnswers": [
+      "ate"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nA: This is a gorgeous, old house! I just love how big it is!\n\nB: Yeah, it is beautiful! I just wish there ____________ an elevator. I get tired walking up and down those stairs!",
+    "selectedAnswers": [
+      "were"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nHe left his wallet at home. He won't be able to buy lunch today. He wishes that ____________ his wallet with him.",
+    "selectedAnswers": [
+      "had brought"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the real or unreal situation.\n\nMy mother ________________ home from work if my dad had a better paying job.",
+    "selectedAnswers": [
+      "could stay"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the real or unreal situation.\n\nIf you quit smoking, you ________________ better.\n\nBoth are possible because QUIT is both the present and the past tense of the verb. This could be a real or an unreal situation.",
+    "selectedAnswers": [
+      "will feel"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the unreal situation.\n\nTom doesn’t know anything about cars. If Tom knew how to fix a car, he ________________ to take his car to the mechanic.",
+    "selectedAnswers": [
+      "wouldn’t have"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion for the unreal situation.\n\nNicole can’t surf. If Nicole ________________ how to surf, she wouldn’t have to take surfing lessons.",
+    "selectedAnswers": [
+      "knew"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Decide whether the following sentence expresses a real situation, present unreal situation, or a past unreal situation.\n\nIf you were a more dedicated student, you would pass\nall your classes.",
+    "selectedAnswers": [
+      "present unreal"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Decide whether the following sentence expresses a real situation, present unreal situation, or a past unreal situation.\n\nI would have been able to wear that dress to the wedding if I hadn’t spilled ketchup on it.",
+    "selectedAnswers": [
+      "past unreal"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Decide whether the following sentence expresses a real situation, present unreal situation, or a past unreal situation.\n\nIf I have a question about financial matters, I ask my father.",
+    "selectedAnswers": [
+      "real"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\nThe doctor told Rebecca that she had to start exercising more regularly. If she hadn’t listened to his advice, ____________________.",
+    "selectedAnswers": [
+      "she could be suffering from some serious health problems right now"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best completion.\n\n_______________, he could have passed the exam.",
+    "selectedAnswers": [
+      "Had Lionel studied for the exam"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the sentence that changes this conditional sentence to a conditional sentence with if.\n\nHad Tara not been fired from her job, she would never have found her dream job.",
+    "selectedAnswers": [
+      "If Tara had not been fired from her job, she would never have found her dream job."
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
