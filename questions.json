@@ -33394,5 +33394,85 @@
     "figures": [
       "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nRqvvA5zTr6ar7wOcy6-Jw_4816cf7d411e138d8936d68a1203e830_wiki_cfg_3_ans-4.png?expiry=1733184000000&hmac=d7NqqeOWBvwVTsGv_tLQU9hGZ0tDfAmN3FT13I47tMQ"
     ]
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nI asked my brother to come swimming with me, but he ______________ his homework yet.",
+    "selectedAnswers": [
+      "hadn't finished"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nWe can't join you at the mall right now because we _____________ our room.",
+    "selectedAnswers": [
+      "are cleaning"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nSince last night, I ________________ any food.",
+    "selectedAnswers": [
+      "haven't eaten"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nWhen we take our vacation next year, we ________________ our cousins for ten years.",
+    "selectedAnswers": [
+      "will not have seen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nSometimes, we want to play tennis, but we ________________ where to find an available court.",
+    "selectedAnswers": [
+      "don't know"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\nWhile the movie was playing, many people _____________ in the theater.",
+    "selectedAnswers": [
+      "were talking"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\nWhen the fireworks exploded on New Year's Eve, my family and I _____________ awake.",
+    "selectedAnswers": [
+      "weren't"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nWhen it started to snow, everyone _________________ out the window.",
+    "selectedAnswers": [
+      "was looking"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\n\nI'm glad you told me the news yesterday because no one else ________________ me.",
+    "selectedAnswers": [
+      "had told"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best verb to complete the sentence. There is only one best answer.\n\nI didn't get paid because I ___________________ my work yet.",
+    "selectedAnswers": [
+      "haven't finished"
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
