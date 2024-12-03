@@ -34531,5 +34531,699 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "Are the following good or bad ideas when you’re preparing to give a presentation? Choose good idea or bad idea.\n\n1.\tPractice your presentation more than once.",
+    "selectedAnswers": [
+      "good idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "2.\tStand tall.",
+    "selectedAnswers": [
+      "bad idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "3.\tAlways walk back and forth in front of the podium.",
+    "selectedAnswers": [
+      "bad idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "4.\tDon’t move your body during a presentation.",
+    "selectedAnswers": [
+      "good idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "5.\tIt’s important to read from your script.",
+    "selectedAnswers": [
+      "bad idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "6.\tFace the audience and have eye contact.",
+    "selectedAnswers": [
+      "good idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "7.\tSpeak quickly.",
+    "selectedAnswers": [
+      "bad idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "8.\tPause before and after your main point.",
+    "selectedAnswers": [
+      "good idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "9.\tStress the final letter in an abbreviation where you say the letters, such as IBM.",
+    "selectedAnswers": [
+      "good idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "10.\tUse fillers frequently instead of silence.",
+    "selectedAnswers": [
+      "bad idea"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Part 1: What is the purpose of each sentence? Select the right answer.\n\n1. Last year, activities\nrelated to conventions added more than $1 billion to the economy in our city.",
+    "selectedAnswers": [
+      "Present a surprising statistic."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "2.\tHow many of you went to a convention in the last 5 years?",
+    "selectedAnswers": [
+      "Ask a question."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "3.\tLast week, Las Vegas hosted the largest convention in history.",
+    "selectedAnswers": [
+      "Tell a story."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "4.\tFirst, we’re going to explain reasons for the problem.  Then…",
+    "selectedAnswers": [
+      "Present your objectives."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "5.\tI’m the director of the Tourism Board.",
+    "selectedAnswers": [
+      "Introduce yourself."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "6.\tLet me show you our plan.",
+    "selectedAnswers": [
+      "Show the direction of your talk."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Part 2: Choose the best word to complete these sentences.\n\n7. Raise your hands _______ you have been to a convention in the last 5 years.",
+    "selectedAnswers": [
+      "if"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "8. _______ you could increase the number of visitors to the city by 200% in three years?",
+    "selectedAnswers": [
+      "What if"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "9. _____ you have been to a convention in the last 5 years?",
+    "selectedAnswers": [
+      "How many of"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "10.\tFirst, I’m going to ______ you our plan for our presentation.",
+    "selectedAnswers": [
+      "show"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "11. ______ what we are going to show you today.",
+    "selectedAnswers": [
+      "Here's"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "12. EFL ________ English as a foreign language.",
+    "selectedAnswers": [
+      "stands for"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. \n\nIntroduction to the\nPresentation:",
+    "selectedAnswers": [
+      "Good afternoon. My name is Pat Jonas. I’m here today to talk about trends in the travel industry."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. \n\n\nIntroduction to the Presentation",
+    "selectedAnswers": [
+      "I’d like to start with a statistic I saw last week in the news. Did you know that only 18% of customers book their travel through agents like you ?"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. \n\n\nIntroduction to the Presentation",
+    "selectedAnswers": [
+      "So in the next twenty minutes. I’m going to talk about what we can do to increase our business and to bring people back from online sites."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. \n\n\nIntroduction to the Presentation",
+    "selectedAnswers": [
+      "Here’s an overview of my talk."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. \n\n\nIntroduction to the Presentation",
+    "selectedAnswers": [
+      "We’ll have time for questions at the end."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "First, let’s take a look at changes in the market, particularly two groups – millennials, that is, people born between 1981 and 1996, and seniors."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "As you know, millennials are very tech-savvy, so they use online and digital devices to research and book travel. "
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "So, what can we do to attract their business?"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "I see you want to talk about this, but I have some surprising information for you. Are you ready for it?"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "Let’s go back a bit here. Statistics don’t always tell the whole story. What’s missing here is the increase we’ve seen recently."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "Some types of travel are perfect for the person-to-person contact that an agent provides. For example, few people are want to commit to eco-travel without personal contact."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "To close, here are my suggestions for each of the challenges I outlined."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "Thank you."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "And now I’d be happy to answer any questions."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "Could you repeat that, please?"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "I can see that you’re upset. "
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "I don’t believe that’s true."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation.\n\nLater in the Presentation",
+    "selectedAnswers": [
+      "I’m sorry. I’m not an expert in that area."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Take a look at the chart. What kind is it?",
+    "selectedAnswers": [
+      "a table"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/TwrP7TPjEeaAahI4Etf_DQ_aaec316a74fc993917a41555147c65e7_4.2.1quiz01slide01.PNG?expiry=1733356800000&hmac=Xkam_2YFqDM5crQ49BxU62G1_gs4DYzkfXeStxINv4c"
+    ]
+  },
+  {
+    "question": "What kind of graph is this?",
+    "selectedAnswers": [
+      "a broken line graph"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/XF6QMTPkEea2WhIyUMEtaQ_312067c51be3169f3e587173da00b59a_4.2.1quiz01slide04.PNG?expiry=1733356800000&hmac=l2CdVI2P2qd72RG8lMb7uANZark79FA1VHQX_vKlORo"
+    ]
+  },
+  {
+    "question": "What kind of graph is this?",
+    "selectedAnswers": [
+      "a broken line graph"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/COaANzPlEeaPkQpAoDV9cw_8b1de7fa0e0b54c8309c4522ebe94a0f_4.2.1quiz01slide06.PNG?expiry=1733356800000&hmac=Y8qqz35e8PZiS6Y-77oWl9eeGX2-FhUc5e69Ovp4kiU"
+    ]
+  },
+  {
+    "question": "What kind of graph is this?",
+    "selectedAnswers": [
+      "a dotted line graph"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/cnz9uzPlEeaywRItC0qVnw_5d13f22948e267cb880d0e50777ef898_4.2.1quiz01slide05.PNG?expiry=1733356800000&hmac=62apEcs9zzj0aye5ggm5LUtD_V-HnabP7ZR6rQoHdnE"
+    ]
+  },
+  {
+    "question": "What kind of graph is this?",
+    "selectedAnswers": [
+      "a bar graph"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/tUG7TDPlEeaayA5yRZsQDQ_08f8e4146f5073dc861c271ef78fbdbd_4.2.1quiz01slide07.PNG?expiry=1733356800000&hmac=NEYRzZ8M3vUYVSZpFcSWiJUaMrnnEV7Xs6gvQ4mP94o"
+    ]
+  },
+  {
+    "question": "What kind of graph is this?",
+    "selectedAnswers": [
+      "a pie chart"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/DnbzVTPmEeaAahI4Etf_DQ_cff919570b0e2380fefa3afe8848b46e_4.2.1quiz01slide08.PNG?expiry=1733356800000&hmac=W7aZW8DeZbs3S17zVutdZfVzg78VsQflBbCc5PJPDfk"
+    ]
+  },
+  {
+    "question": "What is this element the arrow is pointing to?",
+    "selectedAnswers": [
+      "a segment"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/kw69iTPmEea2vw7eFsNvhQ_5b6a0dafe54abdb18e9864cbcb9385f7_4.2.1quiz01slide10.PNG?expiry=1733356800000&hmac=J1UwiiGfYpCXnHxS-PS6T9jGsA9-Aa8heDGS_CFkDyk"
+    ]
+  },
+  {
+    "question": "Look at the chart  . Complete the sentences to give details about the data.\n\n1.\t___ between May and October.",
+    "selectedAnswers": [
+      "Most people visit"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/pmrYKSm4EeaCFgopl-HV3Q_8aaa164a36d0c3ebe5608289acda7fad_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=g-zYq7Hs1uvPTkDLgrNtPs3iVZr95C42JPkAiUUvG0I"
+    ]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data.\n\n2.\tThe number of visitors in May ____ about half the number in September.",
+    "selectedAnswers": [
+      "is"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5cI1Cym4Eea2vw7eFsNvhQ_4b8157081c1ebc57841478c105b5a524_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=vp9Dng353-y4LOF9py03KN6KOtkkPnYD0B4BoDXzvTc"
+    ]
+  },
+  {
+    "question": "Look at the chart  . Complete the sentences to give details about the data.\n\n3.\t___ people visit in September as in May.",
+    "selectedAnswers": [
+      "Twice as many"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/CstoHym5EeaAahI4Etf_DQ_656a243ad38280fa4338dbd4d270f7c3_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=WKTZdEqmuG30e34CRwX5E5UqQXLuNJmozGBVLeUIolM"
+    ]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data.\n\n4.\tJuly has ___ visitors.",
+    "selectedAnswers": [
+      "the most"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MqvXjSm5EeaAahI4Etf_DQ_982b9e6c915d53697891d0aefadbf230_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=xHrXN2XVWD89M6yX9eiIek3hqN1jI2-BY8wwElvdsgw"
+    ]
+  },
+  {
+    "question": "Look at the chart  . Complete the sentences to give details about the data.\n\n5.\tThere are ___ visitors in August ___ in June.",
+    "selectedAnswers": [
+      "as many … as"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/WxSJzSm5EeaAahI4Etf_DQ_d0acb6cfd759cda8eb9cb643a48f05d5_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=oEdfGFnIFYi93AwHTGlTeXQXXEKeQM4FLzfU3OGrLzg"
+    ]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data.\n\n6.\tDecember has ___ more visitors than November does.",
+    "selectedAnswers": [
+      "a lot"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ZeRijSm-EeaDMA5Qz6j_TQ_4a91f0ba5eee05422c83b27a2f23ff41_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=nTdev7RRyGGqOxD0vkZpdC1m6x9AxI6Nf1HpqzqNm4A"
+    ]
+  },
+  {
+    "question": "Look at the chart  . Complete the sentences to give details about the data.\n\n7.\tThe ___ highest number of people visited in August.",
+    "selectedAnswers": [
+      "second"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jRJx3Cm-EeaayA5yRZsQDQ_3c21964f48b0c5a6e8a46150b651ce32_4.2.2Quiz1Chart1.png?expiry=1733356800000&hmac=e0VjWqE3n9v6N7l6-0kTcnmyh6YZRhUHoIOuSS-o_ts"
+    ]
+  },
+  {
+    "question": "Look at the chart  . Complete the sentences to give details about the data.\n\n8.\tForty four ____ of the young people consulted social media.",
+    "selectedAnswers": [
+      "percent"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_zw76inREea2vw7eFsNvhQ_ed1e8f1290034a506505080748d594e4_statistic_id305150_travelers-using-social-media-for-travel-planning-in-the-us-in-2014-by-age.png?expiry=1733356800000&hmac=JAYrm6DEvavzLWuXg8-qld88DoEw8sfOn3DqC3j19Q4"
+    ]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data.\n\n9.\tThe ___ of people who consult social media varied according to age.",
+    "selectedAnswers": [
+      "percentage"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VO0IPynSEea2WhIyUMEtaQ_aaef3061a149cfe26fcefd146b87b1a2_statistic_id305150_travelers-using-social-media-for-travel-planning-in-the-us-in-2014-by-age.png?expiry=1733356800000&hmac=HrSZpXZYg-p-rpD0TNw2e5nx6tJHDoczg4Y1Y4mch5A"
+    ]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data.\n\n10.\tMost of the travelers who consult social media ___ younger than 35.",
+    "selectedAnswers": [
+      "are"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/erI4winSEea2WhIyUMEtaQ_1fa14e089c546abb58bb3efd58df14ce_statistic_id305150_travelers-using-social-media-for-travel-planning-in-the-us-in-2014-by-age.png?expiry=1733356800000&hmac=GAHayq2WBCTzhX-ilt2-ToCGCPGCijiv_x6gUsrZX0c"
+    ]
+  },
+  {
+    "question": "Choose the correct use of words to describe the chart.\n\n1.\tThere was ____  sales.",
+    "selectedAnswers": [
+      "an upward trend in"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/8ZQMPSnLEeaDMA5Qz6j_TQ_447ea9c07fd4c2a7ae4692ae2e17d39c_4.2.3Quiz1Chart1.png?expiry=1733356800000&hmac=l-scYg-iHCuTdbicczDAaULHzmu7Z83yIYQ7T0T5JLE"
+    ]
+  },
+  {
+    "question": "2.\tSales increased _____ twenty percent.",
+    "selectedAnswers": [
+      "by"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/NFL9OynMEea2vw7eFsNvhQ_701c3e238c0c6142273750bc76a8d7b2_4.2.3Quiz1Chart1.png?expiry=1733356800000&hmac=NiSTjNMdMeaXNIBN71RrYh6Goha4mpxJKGvdvzG41rE"
+    ]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions.\n\n3. Doobly had\na decline ____ 10% ___ marketshare.",
+    "selectedAnswers": [
+      "of ... in"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FIyM1infEeaPkQpAoDV9cw_53b88d3342869172af814638a35b5240_marketshare1.PNG?expiry=1733356800000&hmac=wSr1B3ZtviI9BkNrhXeN42IHLvuaRHTKbZzkDsfSGGw",
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/HBYt4CnfEeaAahI4Etf_DQ_6a78cf3ba41627b8d67af8e7e1211fa1_marketshare2.PNG?expiry=1733356800000&hmac=3m8VURC1PIr7UprbfdJ4qpDC3okCYsPi43LNZjP44eY"
+    ]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions.\n\n4. MacroINK's market share increased ____.",
+    "selectedAnswers": [
+      "significantly"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bzaLQynfEea2WhIyUMEtaQ_937a315b3edfd797d0da8f6e04e35984_marketshare1.PNG?expiry=1733356800000&hmac=PdW4-q6GmnmSMJk9ydFzyAKH6x9PneXGXvlL6yUT9cc",
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/d5RERSnfEeaDMA5Qz6j_TQ_aa4daf68819a3f5f68ecbdaa3f5be9de_marketshare2.PNG?expiry=1733356800000&hmac=fAsHrXRklMRMPWgjUTLKCR8hJYqydQGux6l4yXa7uUc"
+    ]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions.\n\n5. PICO's market decreased  ____.",
+    "selectedAnswers": [
+      "from 5% to 4%"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/lPfEMynfEeaayA5yRZsQDQ_435f86e80721799f3dc9382aaee8cf92_marketshare1.PNG?expiry=1733356800000&hmac=afMTKmh5L5IbhA5js_4GKDv9ZiKS4wRtqpQ-vBbhEhk",
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/m6AEfynfEea2vw7eFsNvhQ_345fa114fbed6aa981bc2733644feaa1_marketshare2.PNG?expiry=1733356800000&hmac=-XfeMlii4pT2rbGYrfPFkcvfNGFYdVpGq5uvSWXAiho"
+    ]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions.\n\n6.\tThis chart shows the change in market share ___ a two-year period.",
+    "selectedAnswers": [
+      "in"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/2rK36ynfEeayHwq9iLdlAw_6d27d4bec14cb2284fdd92bc6fe72134_marketshare1.PNG?expiry=1733356800000&hmac=3w3kgWGVmHagIhAOBr98YUbRdNoKrXSnfy78Bilj3hs",
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/40LL1CnfEeaywRItC0qVnw_c5235044e3bb9b59a5a4702359a55d0d_marketshare2.PNG?expiry=1733356800000&hmac=vRlPliVOj_n2BztlToH-u5rs1j1sAUfhCay0sRY5CXE"
+    ]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions.\n\n7.\tThe number of visits _________   dramatically ______  2011 to 2012.",
+    "selectedAnswers": [
+      "increased...from"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/0hLVzSnoEea2WhIyUMEtaQ_fbedc0fd03e0cf385f227a999a79becb_visits.PNG?expiry=1733356800000&hmac=4AA3COItoL8vQKmSDpgh_s3ru_YvDNkWveUnobRUKlU"
+    ]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions.\n\n8.\tVisits do______  ______  2011 ______ 2012.",
+    "selectedAnswers": [
+      "doubled between...and..."
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7ImV4inoEeaCFgopl-HV3Q_58bf67a5f1ae3d515a6c9349f4bd0bef_visits.PNG?expiry=1733356800000&hmac=pOsmCLviG1993qwncpOH_XWpucJBWaHvOaY3u-u3Mh8"
+    ]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions.\n\n9.\tThe number of visits ______   in 2012.",
+    "selectedAnswers": [
+      "peaked"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LrBmZSnpEeaCFgopl-HV3Q_d71e1b2031f051f973be8645168f648a_visits.PNG?expiry=1733356800000&hmac=Aff2qTKM4qYSPcOI5AyCiIBsaoQZ5s1abICSg0cSkAM"
+    ]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions.\n\n10.\tVisits ______   sharply in 2013.",
+    "selectedAnswers": [
+      "dropped"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/W17YgynpEea2vw7eFsNvhQ_d3c8725415e59de6d90a2ee33dec428a_visits.PNG?expiry=1733356800000&hmac=Zi2er5vx9qRXHfDg8C-Jti6HvozvCIwvfLgQR8VWcHs"
+    ]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions.\n\n11.\tVisits fell ______  60% in 2013.",
+    "selectedAnswers": [
+      "by"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/e65UmCnpEeaCFgopl-HV3Q_52ff9bc9c5b9d8e68b3db17fabd01c44_visits.PNG?expiry=1733356800000&hmac=jLEmRtuvyCz03JKlmlIabRr96uOOd2PUMQSsA1oVsAQ"
+    ]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions.\n\n12.\tVisits ______ ______   in 2014.",
+    "selectedAnswers": [
+      "leveled off"
+    ],
+    "inputAnswer": null,
+    "figures": [
+      "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qFb6GSnpEeaAahI4Etf_DQ_88167e464cc09ab79a7a012d6d823c89_visits.PNG?expiry=1733356800000&hmac=2FASXwiwl-EX3TlLvHIrVggua-ugN2FqW-jm6_Gt3dM"
+    ]
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "Focus on your customer’s needs."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "Enjoy the spectacular view of the city from our Sky Restaurant."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe have received the Best Hotel award for the\nlast ten years."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "You can register in two minutes or less."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "Ninety-eight percent of our clients highly recommend our event planners."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "Our highly experienced event planners will make sure your conference is successful. "
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "Feel the warm breeze as you watch the sun set."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "You get all the credit. No one needs to know that we do all the work."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "Our staff will assist you with all your audio/visual needs."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "selectedAnswers": [
+      "We have three award-winning restaurants in the resort. "
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
