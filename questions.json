@@ -34349,5 +34349,187 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "Dear Mina Kim,",
+    "selectedAnswers": [
+      "Incorrect"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Dear Hector,",
+    "selectedAnswers": [
+      "Correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Ms. Dyer:",
+    "selectedAnswers": [
+      "Correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Dear MedEx",
+    "selectedAnswers": [
+      "Incorrect"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Dear, Wayne",
+    "selectedAnswers": [
+      "Incorrect"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Hi Everyone,",
+    "selectedAnswers": [
+      "Correct"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Peter :",
+    "selectedAnswers": [
+      "Incorrect"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Dear Ms. Jennifer.",
+    "selectedAnswers": [
+      "Incorrect"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Hector Hausman wants some information about the mini coffee\nmaker from Coffee Bug. He finds the contact information for Nancy Friesen on\nthe Coffee Bug website. He writes an email to Nancy. Select the best option for\neach part of the email that he writes.\n\nSubject Line",
+    "selectedAnswers": [
+      "Mini Coffee Maker Questions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "2. Email Greeting",
+    "selectedAnswers": [
+      "Dear Ms. Friesen,"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "3. First Part",
+    "selectedAnswers": [
+      "I am interested in the mini coffee maker\nthat I saw on your website.  I have the\nfollowing questions:\n\nDoes it work overseas?\n\nDoes it come in black?\n\nHow can it be cleaned?"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "3. Second Part",
+    "selectedAnswers": [
+      "Thank you for any information you can provide. I look forward to receiving your reply."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "4. Closing",
+    "selectedAnswers": [
+      "Best,"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "6. Name",
+    "selectedAnswers": [
+      "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHector\nHausman"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Choose the best word to complete these sentences.\n\nAn __________ is the plan for a meeting.",
+    "selectedAnswers": [
+      "agenda"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "2. A ______ is someone who attends a meeting.",
+    "selectedAnswers": [
+      "participant"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "3. Writing\na summary of a meeting is called ________.",
+    "selectedAnswers": [
+      "taking minutes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "4.\tA ________ is usually held at the start of a project.",
+    "selectedAnswers": [
+      "kickoff meeting"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "5.\tThe goal of a _______ is to come up with new ideas and to be creative.",
+    "selectedAnswers": [
+      "brainstorming meeting"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "6. At a progress report\nmeeting you will be expected to give ______.",
+    "selectedAnswers": [
+      "an update"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "7.\tSelect all the sentences below which are guidelines for a successful meeting agenda.",
+    "selectedAnswers": [
+      "Send out the agenda at least 24 hours before the meeting.",
+      "Make sure each item on the agenda is clear.",
+      "Do not allow any small talk.",
+      "Provide food."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "8.\tSelect all the sentences below which are guidelines for a successful meeting.",
+    "selectedAnswers": [
+      "Start the meeting on time.",
+      "Keep the discussion on topic.",
+      "Send the minutes as soon as possible.",
+      "Choose a comfortable location."
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
