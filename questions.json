@@ -8531,10 +8531,11 @@
   },
   {
     "question": "Which of the following is the right sequence when developing software using the XP practice of Test First Programming?",
-    "Type": 0,
     "selectedAnswers": [
-      "Write a testMake sure the test failsWrite enough code so the test passesRefactor as necessary"
-    ]
+      "Write a test\n\nMake sure the test fails\n\nWrite enough code so the test passes\n\nRefactor as necessary"
+    ],
+    "inputAnswer": null,
+    "figures": []
   },
   {
     "question": "Which XP practice prescribes that \"the code [always be] written by two programmers at one machine\"?",
