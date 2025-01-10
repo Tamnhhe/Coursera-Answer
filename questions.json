@@ -35225,5 +35225,2791 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "How does the use of shapes impact the overall look and feel of an interface?",
+    "selectedAnswers": [
+      "Shapes create visual hierarchy"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Considering the various elements of user interface design, which of the following statements are true?",
+    "selectedAnswers": [
+      "Color can be used to signify different states in an interface",
+      "Language can be used as a branding element in design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can language be used as a design tool in setting the mood and tone of an app?",
+    "selectedAnswers": [
+      "By selecting words and phrases that reflect the intended user experience."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the advantage of using text in the user interface?",
+    "selectedAnswers": [
+      "It provides faster and more accurate communication"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are icons and symbols differentiated in their visual representations?",
+    "selectedAnswers": [
+      "Icons represent actions while symbols represent concepts"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of color in interface design?",
+    "selectedAnswers": [
+      "Color is used to create mood and emotion"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the primary purpose of icons and symbols in user interfaces?",
+    "selectedAnswers": [
+      "To act as visual cues that guide user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can typography be used as a branding element in the user interface?",
+    "selectedAnswers": [
+      "By using a unique typeface that aligns with the brand's identity"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is a key component of visual design in user interface design?",
+    "selectedAnswers": [
+      "The color palette used in the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When defining the goals, constraints, and audience for a UI design project, which of the following is the first step?",
+    "selectedAnswers": [
+      "Identify the audience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of visual design components in interface design?",
+    "selectedAnswers": [
+      "All of the above"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary purpose of a design brief in a UI/UX project?",
+    "selectedAnswers": [
+      "To provide a summary of the project's goals, audience, and constraints"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can language be used as a design tool in setting the mood and tone of an app?",
+    "selectedAnswers": [
+      "By selecting words and phrases that reflect the intended user experience."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can typography be used as a branding element in the user interface?",
+    "selectedAnswers": [
+      "By using a unique typeface that aligns with the brand's identity"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the primary purpose of icons and symbols in user interfaces?",
+    "selectedAnswers": [
+      "To act as visual cues that guide user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are icons and symbols differentiated in their visual representations?",
+    "selectedAnswers": [
+      "Icons represent actions while symbols represent concepts"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of color in interface design?",
+    "selectedAnswers": [
+      "Color is used to create mood and emotion"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does the use of shapes impact the overall look and feel of an interface?",
+    "selectedAnswers": [
+      "Shapes create visual hierarchy"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the advantage of using text in the user interface?",
+    "selectedAnswers": [
+      "It provides faster and more accurate communication"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Considering the various elements of user interface design, which of the following statements are true?",
+    "selectedAnswers": [
+      "Color can be used to signify different states in an interface",
+      "Language can be used as a branding element in design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is a key component of visual design in user interface design?",
+    "selectedAnswers": [
+      "The color palette used in the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary purpose of a design brief in a UI/UX project?",
+    "selectedAnswers": [
+      "To provide a summary of the project's goals, audience, and constraints"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of visual design components in interface design?",
+    "selectedAnswers": [
+      "All of the above"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the primary purpose of icons and symbols in user interfaces?",
+    "selectedAnswers": [
+      "To act as visual cues that guide user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does the use of shapes impact the overall look and feel of an interface?",
+    "selectedAnswers": [
+      "Shapes create visual hierarchy"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are icons and symbols differentiated in their visual representations?",
+    "selectedAnswers": [
+      "Icons represent actions while symbols represent concepts"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you want to create a sense of urgency or importance in a user interface, which color would be most appropriate?",
+    "selectedAnswers": [
+      "Red"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of color in interface design?",
+    "selectedAnswers": [
+      "Color is used to create mood and emotion"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the advantage of using text in the user interface?",
+    "selectedAnswers": [
+      "It provides faster and more accurate communication"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Considering the various elements of user interface design, which of the following statements are true?",
+    "selectedAnswers": [
+      "Language can be used as a branding element in design",
+      "Color can be used to signify different states in an interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can typography be used as a branding element in the user interface?",
+    "selectedAnswers": [
+      "By using a unique typeface that aligns with the brand's identity"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are important topics to consider in any UI/UX project?\nSelect all that apply.",
+    "selectedAnswers": [
+      "Context the interface will be used in",
+      "Age of the target audience",
+      "Audience for the interface",
+      "Content to be displayed"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary purpose of a design brief in a UI/UX project?",
+    "selectedAnswers": [
+      "To provide a summary of the project's goals, audience, and constraints"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of visual design components in interface design?",
+    "selectedAnswers": [
+      "All of the above"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Considering the various elements of user interface design, which of the following statements are true?",
+    "selectedAnswers": [
+      "Language can be used as a branding element in design",
+      "Color can be used to signify different states in an interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are icons and symbols differentiated in their visual representations?",
+    "selectedAnswers": [
+      "Icons represent actions while symbols represent concepts"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the primary purpose of icons and symbols in user interfaces?",
+    "selectedAnswers": [
+      "To act as visual cues that guide user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you want to create a sense of urgency or importance in a user interface, which color would be most appropriate?",
+    "selectedAnswers": [
+      "Red"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the advantage of using text in the user interface?",
+    "selectedAnswers": [
+      "It provides faster and more accurate communication"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can language be used as a design tool in setting the mood and tone of an app?",
+    "selectedAnswers": [
+      "By selecting words and phrases that reflect the intended user experience."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does the use of shapes impact the overall look and feel of an interface?",
+    "selectedAnswers": [
+      "Shapes create visual hierarchy"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How can typography be used as a branding element in the user interface?",
+    "selectedAnswers": [
+      "By using a unique typeface that aligns with the brand's identity"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the role of visual design components in interface design?",
+    "selectedAnswers": [
+      "All of the above"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is a key component of visual design in user interface design?",
+    "selectedAnswers": [
+      "The color palette used in the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are important topics to consider in any UI/UX project?\nSelect all that apply.",
+    "selectedAnswers": [
+      "Context the interface will be used in",
+      "Audience for the interface",
+      "Content to be displayed",
+      "Age of the target audience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is logic and predictability important in interface design?",
+    "selectedAnswers": [
+      "To ensure the user can easily understand and use the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the basic functionality of a user interface?",
+    "selectedAnswers": [
+      "To provide a way for users to interact with the system"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does introducing function to form in user interface design mean?",
+    "selectedAnswers": [
+      "Ensuring that every design element has a purpose"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Imagine you are designing a user interface. How would you apply the principle of composition and structure?",
+    "selectedAnswers": [
+      "By arranging elements in a logical and predictable way"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What could be an advantage of a slimmed-down, functional interface over a more graphic, entertaining interface?",
+    "selectedAnswers": [
+      "It reduces the chances of user distraction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface. What would be an indicator that it effectively balances functionality and aesthetics?",
+    "selectedAnswers": [
+      "The interface has both visual appeal and allows users to perform tasks efficiently"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the purpose of pattern libraries in UI design?",
+    "selectedAnswers": [
+      "To provide a set of ready-to-use design elements"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What could be a disadvantage of a highly graphical and entertaining interface?",
+    "selectedAnswers": [
+      "It may distract from the content"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces?",
+    "selectedAnswers": [
+      "Maintaining a simple and clean design",
+      "Using consistent design patterns",
+      "Ensuring a clear and direct navigation"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'multi-state button' in user interface design refer to?",
+    "selectedAnswers": [
+      "A button that changes its state based on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are the different states that a button can have in user interface design?",
+    "selectedAnswers": [
+      "Normal, Hover, Pressed, Inactive"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to use design conventions and principles in interface design?",
+    "selectedAnswers": [
+      "They ensure that the interface is user-friendly"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the main role of a designer in shaping a user's interactive experience?",
+    "selectedAnswers": [
+      "Understanding user needs and translating them into functional design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the transition of static interface elements to interactive ones in user interface design?",
+    "selectedAnswers": [
+      "Conversion of graphical elements into clickable buttons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is logic and predictability important in interface design?",
+    "selectedAnswers": [
+      "To ensure the user can easily understand and use the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios can be considered as an effective balance between functionality and aesthetics in UI design?",
+    "selectedAnswers": [
+      "A utility app with minimalistic design but all necessary features"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is maintaining consistency in user interface design important?",
+    "selectedAnswers": [
+      "It helps users predict how elements in the interface will behave"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface. What would be an indicator that it effectively balances functionality and aesthetics?",
+    "selectedAnswers": [
+      "The interface has both visual appeal and allows users to perform tasks efficiently"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What could be a disadvantage of a highly graphical and entertaining interface?",
+    "selectedAnswers": [
+      "It may distract from the content"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What could be an advantage of a slimmed-down, functional interface over a more graphic, entertaining interface?",
+    "selectedAnswers": [
+      "It reduces the chances of user distraction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces?",
+    "selectedAnswers": [
+      "Using consistent design patterns",
+      "Maintaining a simple and clean design",
+      "Ensuring a clear and direct navigation"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are the different states that a button can have in user interface design?",
+    "selectedAnswers": [
+      "Normal, Hover, Pressed, Inactive"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'multi-state button' in user interface design refer to?",
+    "selectedAnswers": [
+      "A button that changes its state based on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to use design conventions and principles in interface design?",
+    "selectedAnswers": [
+      "They ensure that the interface is user-friendly"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the transition of static interface elements to interactive ones in user interface design?",
+    "selectedAnswers": [
+      "Conversion of graphical elements into clickable buttons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does introducing function to form in user interface design mean?",
+    "selectedAnswers": [
+      "Ensuring that every design element has a purpose"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the basic functionality of a user interface?",
+    "selectedAnswers": [
+      "To provide a way for users to interact with the system"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What could be an advantage of a slimmed-down, functional interface over a more graphic, entertaining interface?",
+    "selectedAnswers": [
+      "It reduces the chances of user distraction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What could be a disadvantage of a highly graphical and entertaining interface?",
+    "selectedAnswers": [
+      "It may distract from the content"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios can be considered as an effective balance between functionality and aesthetics in UI design?",
+    "selectedAnswers": [
+      "A utility app with minimalistic design but all necessary features"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces?",
+    "selectedAnswers": [
+      "Using consistent design patterns",
+      "Ensuring a clear and direct navigation",
+      "Maintaining a simple and clean design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface. What would be an indicator that it effectively balances functionality and aesthetics?",
+    "selectedAnswers": [
+      "The interface has both visual appeal and allows users to perform tasks efficiently"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Imagine you are designing a user interface. How would you apply the principle of composition and structure?",
+    "selectedAnswers": [
+      "By arranging elements in a logical and predictable way"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to use design conventions and principles in interface design?",
+    "selectedAnswers": [
+      "They ensure that the interface is user-friendly"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a key principle for designing effective buttons?",
+    "selectedAnswers": [
+      "They should have a consistent design and provide visual feedback"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'multi-state button' in user interface design refer to?",
+    "selectedAnswers": [
+      "A button that changes its state based on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the basic functionality of a user interface?",
+    "selectedAnswers": [
+      "To provide a way for users to interact with the system"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does introducing function to form in user interface design mean?",
+    "selectedAnswers": [
+      "Ensuring that every design element has a purpose"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is logic and predictability important in interface design?",
+    "selectedAnswers": [
+      "To ensure the user can easily understand and use the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface. What would be an indicator that it effectively balances functionality and aesthetics?",
+    "selectedAnswers": [
+      "The interface has both visual appeal and allows users to perform tasks efficiently"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios can be considered as an effective balance between functionality and aesthetics in UI design?",
+    "selectedAnswers": [
+      "A utility app with minimalistic design but all necessary features"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Imagine you are designing a user interface. How would you apply the principle of composition and structure?",
+    "selectedAnswers": [
+      "By arranging elements in a logical and predictable way"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces?",
+    "selectedAnswers": [
+      "Ensuring a clear and direct navigation",
+      "Using consistent design patterns",
+      "Maintaining a simple and clean design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the purpose of pattern libraries in UI design?",
+    "selectedAnswers": [
+      "To provide a set of ready-to-use design elements"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is maintaining consistency in user interface design important?",
+    "selectedAnswers": [
+      "It helps users predict how elements in the interface will behave"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'multi-state button' in user interface design refer to?",
+    "selectedAnswers": [
+      "A button that changes its state based on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a key principle for designing effective buttons?",
+    "selectedAnswers": [
+      "They should have a consistent design and provide visual feedback"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are the different states that a button can have in user interface design?",
+    "selectedAnswers": [
+      "Normal, Hover, Pressed, Inactive"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface with poorly integrated components. What is a likely result of this situation?",
+    "selectedAnswers": [
+      "Users may have difficulty understanding how to interact with the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen?",
+    "selectedAnswers": [
+      "Use consistent colors, typography, and visual elements to create harmony"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When comparing the ease of navigation between web-based and app versions of a digital product, what is a key difference to consider?",
+    "selectedAnswers": [
+      "Apps are designed to be used in portrait mode"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to create a grid for a website when designing a user interface?",
+    "selectedAnswers": [
+      "To ensure consistency and visual appeal in design decisions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a convention in user interface design?",
+    "selectedAnswers": [
+      "A widespread rule or style followed by designers"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In user interface design, what does the concept of hierarchy primarily help with?",
+    "selectedAnswers": [
+      "Prioritizing content and guiding user's attention"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When designing a user interface, why is it important to align user needs and client goals?",
+    "selectedAnswers": [
+      "To ensure the design meets its intended purpose"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason for variations in content between web-based and app versions of a digital product?",
+    "selectedAnswers": [
+      "Device capabilities and screen size"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing for different screens?",
+    "selectedAnswers": [
+      "Orientation",
+      "Viewing distance",
+      "Scale"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing user interfaces for different screen sizes and formats?",
+    "selectedAnswers": [
+      "Viewing distance",
+      "Scale",
+      "Orientation"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you were to improve the navigation of a user interface, which of the following would be the most effective strategy?",
+    "selectedAnswers": [
+      "Designing a logical and intuitive menu structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is transitioning from static designs to prototypes an important process in user interface design?",
+    "selectedAnswers": [
+      "To check the feasibility of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface with poorly integrated components. What is a likely result of this situation?",
+    "selectedAnswers": [
+      "Users may have difficulty understanding how to interact with the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen?",
+    "selectedAnswers": [
+      "Use consistent colors, typography, and visual elements to create harmony"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to create a grid for a website when designing a user interface?",
+    "selectedAnswers": [
+      "To ensure consistency and visual appeal in design decisions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider factors such as orientation, scale, and viewing distance when designing for different screens?",
+    "selectedAnswers": [
+      "To ensure the design is accessible and usable on all devices"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When comparing the ease of navigation between web-based and app versions of a digital product, what is a key difference to consider?",
+    "selectedAnswers": [
+      "Apps are designed to be used in portrait mode"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason for variations in content between web-based and app versions of a digital product?",
+    "selectedAnswers": [
+      "Device capabilities and screen size"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'hierarchy' refer to in the context of user interface design?",
+    "selectedAnswers": [
+      "The order of importance of different elements on a screen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a convention in user interface design?",
+    "selectedAnswers": [
+      "A widespread rule or style followed by designers"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing user interfaces for different screen sizes and formats?",
+    "selectedAnswers": [
+      "Scale",
+      "Viewing distance",
+      "Orientation"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing for different screens?",
+    "selectedAnswers": [
+      "Viewing distance",
+      "Orientation",
+      "Scale"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you were to improve the navigation of a user interface, which of the following would be the most effective strategy?",
+    "selectedAnswers": [
+      "Designing a logical and intuitive menu structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is transitioning from static designs to prototypes an important process in user interface design?",
+    "selectedAnswers": [
+      "To check the feasibility of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen?",
+    "selectedAnswers": [
+      "Use consistent colors, typography, and visual elements to create harmony"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface with poorly integrated components. What is a likely result of this situation?",
+    "selectedAnswers": [
+      "Users may have difficulty understanding how to interact with the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a convention in user interface design?",
+    "selectedAnswers": [
+      "A widespread rule or style followed by designers"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to create a grid for a website when designing a user interface?",
+    "selectedAnswers": [
+      "To ensure consistency and visual appeal in design decisions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When designing a user interface, why is it important to align user needs and client goals?",
+    "selectedAnswers": [
+      "To ensure the design meets its intended purpose"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason for variations in content between web-based and app versions of a digital product?",
+    "selectedAnswers": [
+      "Device capabilities and screen size"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When comparing the ease of navigation between web-based and app versions of a digital product, what is a key difference to consider?",
+    "selectedAnswers": [
+      "Apps are designed to be used in portrait mode"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing user interfaces for different screen sizes and formats?",
+    "selectedAnswers": [
+      "Viewing distance",
+      "Orientation",
+      "Scale"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are the principles to follow when creating a grid for a website?",
+    "selectedAnswers": [
+      "Ensure consistency"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you were to improve the navigation of a user interface, which of the following would be the most effective strategy?",
+    "selectedAnswers": [
+      "Designing a logical and intuitive menu structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is transitioning from static designs to prototypes an important process in user interface design?",
+    "selectedAnswers": [
+      "To check the feasibility of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen?",
+    "selectedAnswers": [
+      "Use consistent colors, typography, and visual elements to create harmony"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider a user interface with poorly integrated components. What is a likely result of this situation?",
+    "selectedAnswers": [
+      "Users may have difficulty understanding how to interact with the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to create a grid for a website when designing a user interface?",
+    "selectedAnswers": [
+      "To ensure consistency and visual appeal in design decisions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In user interface design, what does the concept of hierarchy primarily help with?",
+    "selectedAnswers": [
+      "Prioritizing content and guiding user's attention"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a convention in user interface design?",
+    "selectedAnswers": [
+      "A widespread rule or style followed by designers"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason for variations in content between web-based and app versions of a digital product?",
+    "selectedAnswers": [
+      "Device capabilities and screen size"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When comparing the ease of navigation between web-based and app versions of a digital product, what is a key difference to consider?",
+    "selectedAnswers": [
+      "Apps are designed to be used in portrait mode"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing user interfaces for different screen sizes and formats?",
+    "selectedAnswers": [
+      "Viewing distance",
+      "Orientation",
+      "Scale"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following factors are important to consider when designing for different screens?",
+    "selectedAnswers": [
+      "Scale",
+      "Viewing distance",
+      "Orientation"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is transitioning from static designs to prototypes an important process in user interface design?",
+    "selectedAnswers": [
+      "To check the feasibility of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you were to improve the navigation of a user interface, which of the following would be the most effective strategy?",
+    "selectedAnswers": [
+      "Designing a logical and intuitive menu structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What would be a poor way to start generating ideas for an new, innovative app?",
+    "selectedAnswers": [
+      "Copying an existing app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which factor is not important when prioritizing the functionality of an app?",
+    "selectedAnswers": [
+      "Color scheme of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When generating initial ideas for an app, which of the following should you consider?",
+    "selectedAnswers": [
+      "User needs",
+      "Potential revenue streams",
+      "Feasibility of implementation"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider app store optimization when naming your app?",
+    "selectedAnswers": [
+      "It boosts the app's visibility in app store search results"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is a critical aspect when naming an app?",
+    "selectedAnswers": [
+      "Selecting a name that's simple, descriptive, and unique"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason why branding is important in UX design?",
+    "selectedAnswers": [
+      "It sets the app apart from its competitors"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider the user journey in the planning stage of an app?",
+    "selectedAnswers": [
+      "It gives insights into the step-by-step experience users will have with your app."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why should you prioritize certain features over others when planning your app?",
+    "selectedAnswers": [
+      "Because prioritizing helps focus on the features that are most valuable to your users."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of these is the most important to determine during the initial planning phase of an app?",
+    "selectedAnswers": [
+      "The target audience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it crucial to understand the audience and rationale for an app?",
+    "selectedAnswers": [
+      "To align the app's features with user needs and motivations"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are potential goals that can be pursued in app development?",
+    "selectedAnswers": [
+      "Increasing user engagement",
+      "Enhancing the company's reputation",
+      "Improving user satisfaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app?",
+    "selectedAnswers": [
+      "To understand users' needs and improve the app's value for users"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which factor is not important when prioritizing the functionality of an app?",
+    "selectedAnswers": [
+      "Color scheme of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What would be a poor way to start generating ideas for an new, innovative app?",
+    "selectedAnswers": [
+      "Copying an existing app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the first step in generating initial ideas for an app?",
+    "selectedAnswers": [
+      "Identifying the target audience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is a critical aspect when naming an app?",
+    "selectedAnswers": [
+      "Selecting a name that's simple, descriptive, and unique"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider app store optimization when naming your app?",
+    "selectedAnswers": [
+      "It boosts the app's visibility in app store search results"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason why branding is important in UX design?",
+    "selectedAnswers": [
+      "It sets the app apart from its competitors"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider the user journey in the planning stage of an app?",
+    "selectedAnswers": [
+      "It gives insights into the step-by-step experience users will have with your app."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why should you prioritize certain features over others when planning your app?",
+    "selectedAnswers": [
+      "Because prioritizing helps focus on the features that are most valuable to your users."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following actions are beneficial when seeking user feedback on an app idea?",
+    "selectedAnswers": [
+      "Conducting user interviews"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app?",
+    "selectedAnswers": [
+      "To understand users' needs and improve the app's value for users"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are potential goals that can be pursued in app development?",
+    "selectedAnswers": [
+      "Improving user satisfaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which factor is not important when prioritizing the functionality of an app?",
+    "selectedAnswers": [
+      "Color scheme of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What would be a poor way to start generating ideas for an new, innovative app?",
+    "selectedAnswers": [
+      "Copying an existing app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the first step in generating initial ideas for an app?",
+    "selectedAnswers": [
+      "Identifying the target audience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason why branding is important in UX design?",
+    "selectedAnswers": [
+      "It sets the app apart from its competitors"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Imagine you are branding a new app for online learning. Which of the following branding strategies would be most effective?",
+    "selectedAnswers": [
+      "Using a name related to the functionality of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider app store optimization when naming your app?",
+    "selectedAnswers": [
+      "It boosts the app's visibility in app store search results"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider the user journey in the planning stage of an app?",
+    "selectedAnswers": [
+      "It gives insights into the step-by-step experience users will have with your app."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of UX design, how does creating user personas help in the planning stage of an app?",
+    "selectedAnswers": [
+      "It helps to understand the needs, behaviors, and goals of your users."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why should you prioritize certain features over others when planning your app?",
+    "selectedAnswers": [
+      "Because prioritizing helps focus on the features that are most valuable to your users."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app?",
+    "selectedAnswers": [
+      "To understand users' needs and improve the app's value for users"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following actions are beneficial when seeking user feedback on an app idea?",
+    "selectedAnswers": [
+      "Conducting user interviews",
+      "Creating prototypes"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it crucial to understand the audience and rationale for an app?",
+    "selectedAnswers": [
+      "To align the app's features with user needs and motivations"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which factor is not important when prioritizing the functionality of an app?",
+    "selectedAnswers": [
+      "Color scheme of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When generating initial ideas for an app, which of the following should you consider?",
+    "selectedAnswers": [
+      "Feasibility of implementation",
+      "User needs"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the first step in generating initial ideas for an app?",
+    "selectedAnswers": [
+      "Identifying the target audience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider app store optimization when naming your app?",
+    "selectedAnswers": [
+      "It boosts the app's visibility in app store search results"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary reason why branding is important in UX design?",
+    "selectedAnswers": [
+      "It sets the app apart from its competitors"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is a critical aspect when naming an app?",
+    "selectedAnswers": [
+      "Selecting a name that's simple, descriptive, and unique"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why should you prioritize certain features over others when planning your app?",
+    "selectedAnswers": [
+      "Because prioritizing helps focus on the features that are most valuable to your users."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to consider the user journey in the planning stage of an app?",
+    "selectedAnswers": [
+      "It gives insights into the step-by-step experience users will have with your app."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following actions are beneficial when seeking user feedback on an app idea?",
+    "selectedAnswers": [
+      "Creating prototypes",
+      "Conducting user interviews"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are potential goals that can be pursued in app development?",
+    "selectedAnswers": [
+      "Increasing user engagement",
+      "Improving user satisfaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app?",
+    "selectedAnswers": [
+      "To understand users' needs and improve the app's value for users"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You're designing an app's login process. Which of the following screens is least likely to be involved in this process?",
+    "selectedAnswers": [
+      "A search screen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?",
+    "selectedAnswers": [
+      "A field for entering the pet's microchip number"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the purpose of a sitemap in the app development process?",
+    "selectedAnswers": [
+      "To plan and visualize the content structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios is most likely to benefit from a change in visual direction?",
+    "selectedAnswers": [
+      "Users find the app's interface confusing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary purpose of conducting visual research in UX Design?",
+    "selectedAnswers": [
+      "To understand the audience's visual preferences and expectations"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does visual design impact the user experience of an app?",
+    "selectedAnswers": [
+      "It sets the mood and tone of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is a user flowchart important in UX Design?",
+    "selectedAnswers": [
+      "It provides a visual representation of the possible user interactions with the product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are content maps and user flowcharts different?",
+    "selectedAnswers": [
+      "Content maps focus on the organization of content, while user flowcharts focus on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are qualities of a well-crafted content map?",
+    "selectedAnswers": [
+      "It focuses on the user's perspective",
+      "It is flexible and can be adapted as the project evolves",
+      "It is simple and easy to understand"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do?",
+    "selectedAnswers": [
+      "Make note of the user's difficulty for future improvement"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a key responsibility of the TESTER during paper prototype testing?",
+    "selectedAnswers": [
+      "To simulate the computer's response"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You're designing an app's login process. Which of the following screens is least likely to be involved in this process?",
+    "selectedAnswers": [
+      "A search screen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?",
+    "selectedAnswers": [
+      "A field for entering the pet's microchip number"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the purpose of a sitemap in the app development process?",
+    "selectedAnswers": [
+      "To plan and visualize the content structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios is most likely to benefit from a change in visual direction?",
+    "selectedAnswers": [
+      "Users find the app's interface confusing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does visual design impact the user experience of an app?",
+    "selectedAnswers": [
+      "It sets the mood and tone of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following steps are involved in creating a mood board for UX Design?",
+    "selectedAnswers": [
+      "Grouping related visuals together",
+      "Collecting visual inspiration",
+      "Defining color palettes and typography"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is a user flowchart important in UX Design?",
+    "selectedAnswers": [
+      "It provides a visual representation of the possible user interactions with the product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are qualities of a well-crafted content map?",
+    "selectedAnswers": [
+      "It is simple and easy to understand",
+      "It focuses on the user's perspective",
+      "It is flexible and can be adapted as the project evolves"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are content maps and user flowcharts different?",
+    "selectedAnswers": [
+      "Content maps focus on the organization of content, while user flowcharts focus on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are some responsibilities of the USER during paper prototype testing?",
+    "selectedAnswers": [
+      "Performing tasks as they would in a real-life scenario",
+      "Providing feedback on the system's functionality"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do?",
+    "selectedAnswers": [
+      "Make note of the user's difficulty for future improvement"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a key responsibility of the TESTER during paper prototype testing?",
+    "selectedAnswers": [
+      "To simulate the computer's response"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You're designing an app's login process. Which of the following screens is least likely to be involved in this process?",
+    "selectedAnswers": [
+      "A search screen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?",
+    "selectedAnswers": [
+      "A field for entering the pet's microchip number"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the purpose of a sitemap in the app development process?",
+    "selectedAnswers": [
+      "To plan and visualize the content structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios is most likely to benefit from a change in visual direction?",
+    "selectedAnswers": [
+      "Users find the app's interface confusing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does visual design impact the user experience of an app?",
+    "selectedAnswers": [
+      "It sets the mood and tone of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following steps are involved in creating a mood board for UX Design?",
+    "selectedAnswers": [
+      "Grouping related visuals together",
+      "Collecting visual inspiration",
+      "Defining color palettes and typography"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is a user flowchart important in UX Design?",
+    "selectedAnswers": [
+      "It provides a visual representation of the possible user interactions with the product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are qualities of a well-crafted content map?",
+    "selectedAnswers": [
+      "It is simple and easy to understand",
+      "It focuses on the user's perspective",
+      "It is flexible and can be adapted as the project evolves"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are content maps and user flowcharts different?",
+    "selectedAnswers": [
+      "Content maps focus on the organization of content, while user flowcharts focus on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are some responsibilities of the USER during paper prototype testing?",
+    "selectedAnswers": [
+      "Performing tasks as they would in a real-life scenario",
+      "Providing feedback on the system's functionality"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do?",
+    "selectedAnswers": [
+      "Make note of the user's difficulty for future improvement"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a key responsibility of the TESTER during paper prototype testing?",
+    "selectedAnswers": [
+      "To simulate the computer's response"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You're designing an app's login process. Which of the following screens is least likely to be involved in this process?",
+    "selectedAnswers": [
+      "A search screen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the purpose of a sitemap in the app development process?",
+    "selectedAnswers": [
+      "To plan and visualize the content structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?",
+    "selectedAnswers": [
+      "A field for entering the pet's microchip number"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary purpose of conducting visual research in UX Design?",
+    "selectedAnswers": [
+      "To understand the audience's visual preferences and expectations"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios is most likely to benefit from a change in visual direction?",
+    "selectedAnswers": [
+      "Users find the app's interface confusing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How does visual design impact the user experience of an app?",
+    "selectedAnswers": [
+      "It sets the mood and tone of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is a user flowchart important in UX Design?",
+    "selectedAnswers": [
+      "It provides a visual representation of the possible user interactions with the product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are qualities of a well-crafted content map?",
+    "selectedAnswers": [
+      "It is flexible and can be adapted as the project evolves",
+      "It focuses on the user's perspective"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are some responsibilities of the USER during paper prototype testing?",
+    "selectedAnswers": [
+      "Performing tasks as they would in a real-life scenario"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do?",
+    "selectedAnswers": [
+      "Make note of the user's difficulty for future improvement"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is a key responsibility of the TESTER during paper prototype testing?",
+    "selectedAnswers": [
+      "To simulate the computer's response"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You're designing an app's login process. Which of the following screens is least likely to be involved in this process?",
+    "selectedAnswers": [
+      "A search screen"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?",
+    "selectedAnswers": [
+      "A field for entering the pet's microchip number"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the purpose of a sitemap in the app development process?",
+    "selectedAnswers": [
+      "To plan and visualize the content structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following steps are involved in creating a mood board for UX Design?",
+    "selectedAnswers": [
+      "Collecting visual inspiration",
+      "Defining color palettes and typography",
+      "Grouping related visuals together"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following scenarios is most likely to benefit from a change in visual direction?",
+    "selectedAnswers": [
+      "Users find the app's interface confusing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the primary purpose of conducting visual research in UX Design?",
+    "selectedAnswers": [
+      "To understand the audience's visual preferences and expectations"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is a user flowchart important in UX Design?",
+    "selectedAnswers": [
+      "It provides a visual representation of the possible user interactions with the product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How are content maps and user flowcharts different?",
+    "selectedAnswers": [
+      "Content maps focus on the organization of content, while user flowcharts focus on user interaction"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are qualities of a well-crafted content map?",
+    "selectedAnswers": [
+      "It is simple and easy to understand",
+      "It focuses on the user's perspective",
+      "It is flexible and can be adapted as the project evolves"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are some responsibilities of the USER during paper prototype testing?",
+    "selectedAnswers": [
+      "Providing feedback on the system's functionality",
+      "Performing tasks as they would in a real-life scenario"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the most significant benefit of testing a paper prototype with a user?",
+    "selectedAnswers": [
+      "It helps identify potential problems early on"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do?",
+    "selectedAnswers": [
+      "Make note of the user's difficulty for future improvement"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When refining user interface design, which factor is least likely to be a primary consideration?",
+    "selectedAnswers": [
+      "Color trends in the fashion industry"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating wireframes, which of the following steps would you likely take first?",
+    "selectedAnswers": [
+      "Sketch the basic structure of the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following would be the best choice to visually represent the interface structure in a wireframe?",
+    "selectedAnswers": [
+      "Using geometric shapes and lines"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the purpose of using a limited color palette in wireframes?",
+    "selectedAnswers": [
+      "To focus on the structure and functionality, not the visual design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are important considerations when making UI and UX decisions while building wireframes?",
+    "selectedAnswers": [
+      "The distribution of elements on the screen",
+      "The type of device the app will be used on",
+      "How the user will navigate through the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the main purpose of creating a wireframe map?",
+    "selectedAnswers": [
+      "To provide a visual representation of the site's structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the most important reason for conducting user testing with wireframe designs?",
+    "selectedAnswers": [
+      "To validate the functionality and usability of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'?",
+    "selectedAnswers": [
+      "Using consistent and recognizable icons",
+      "Providing only essential functionality",
+      "Removing irrelevant information"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If a system has 'user control and freedom', what feature would it most likely have?",
+    "selectedAnswers": [
+      "An undo and redo option"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design?",
+    "selectedAnswers": [
+      "Cognitive overload prevention"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider the rule 'recognition rather than recall'.  In terms of form design, what does this imply?",
+    "selectedAnswers": [
+      "The form should use familiar terms and icons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why are wireframes important in the design process?",
+    "selectedAnswers": [
+      "They allow designers to experiment with different design solutions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating wireframes, which of the following steps would you likely take first?",
+    "selectedAnswers": [
+      "Sketch the basic structure of the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are some methods to ensure continuity and consistency across different screens?",
+    "selectedAnswers": [
+      "Maintaining a consistent layout",
+      "Using consistent navigation",
+      "Using consistent fonts and colors"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the purpose of using a limited color palette in wireframes?",
+    "selectedAnswers": [
+      "To focus on the structure and functionality, not the visual design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are important considerations when making UI and UX decisions while building wireframes?",
+    "selectedAnswers": [
+      "The distribution of elements on the screen",
+      "The type of device the app will be used on",
+      "How the user will navigate through the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following would be the best choice to visually represent the interface structure in a wireframe?",
+    "selectedAnswers": [
+      "Using geometric shapes and lines"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the main purpose of creating a wireframe map?",
+    "selectedAnswers": [
+      "To provide a visual representation of the site's structure"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the most important reason for conducting user testing with wireframe designs?",
+    "selectedAnswers": [
+      "To validate the functionality and usability of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design?",
+    "selectedAnswers": [
+      "Cognitive overload prevention"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider the rule 'recognition rather than recall'.  In terms of form design, what does this imply?",
+    "selectedAnswers": [
+      "The form should use familiar terms and icons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'?",
+    "selectedAnswers": [
+      "Using consistent and recognizable icons",
+      "Removing irrelevant information",
+      "Providing only essential functionality"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If a system has 'user control and freedom', what feature would it most likely have?",
+    "selectedAnswers": [
+      "An undo and redo option"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating wireframes, which of the following steps would you likely take first?",
+    "selectedAnswers": [
+      "Sketch the basic structure of the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What are some methods to ensure continuity and consistency across different screens?",
+    "selectedAnswers": [
+      "Using consistent navigation",
+      "Using consistent fonts and colors",
+      "Maintaining a consistent layout"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is user testing important in the development of wireframes?",
+    "selectedAnswers": [
+      "To confirm the wireframe's structure and functionality work as intended"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following are important considerations when making UI and UX decisions while building wireframes?",
+    "selectedAnswers": [
+      "The type of device the app will be used on",
+      "The distribution of elements on the screen",
+      "How the user will navigate through the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following would be the best choice to visually represent the interface structure in a wireframe?",
+    "selectedAnswers": [
+      "Using geometric shapes and lines"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you find inconsistencies in your wireframe screens, what is the best first step to take?",
+    "selectedAnswers": [
+      "Identify the cause of the inconsistencies"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the most important reason for conducting user testing with wireframe designs?",
+    "selectedAnswers": [
+      "To validate the functionality and usability of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design?",
+    "selectedAnswers": [
+      "Cognitive overload prevention"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'?",
+    "selectedAnswers": [
+      "Removing irrelevant information",
+      "Providing only essential functionality",
+      "Using consistent and recognizable icons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider the rule 'recognition rather than recall'.  In terms of form design, what does this imply?",
+    "selectedAnswers": [
+      "The form should use familiar terms and icons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If a system has 'user control and freedom', what feature would it most likely have?",
+    "selectedAnswers": [
+      "An undo and redo option"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why are wireframes important in the design process?",
+    "selectedAnswers": [
+      "They allow designers to experiment with different design solutions"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When refining user interface design, which factor is least likely to be a primary consideration?",
+    "selectedAnswers": [
+      "Color trends in the fashion industry"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating wireframes, which of the following steps would you likely take first?",
+    "selectedAnswers": [
+      "Sketch the basic structure of the interface"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following would be the best choice to visually represent the interface structure in a wireframe?",
+    "selectedAnswers": [
+      "Using geometric shapes and lines"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is user testing important in the development of wireframes?",
+    "selectedAnswers": [
+      "To confirm the wireframe's structure and functionality work as intended"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the purpose of using a limited color palette in wireframes?",
+    "selectedAnswers": [
+      "To focus on the structure and functionality, not the visual design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you find inconsistencies in your wireframe screens, what is the best first step to take?",
+    "selectedAnswers": [
+      "Identify the cause of the inconsistencies"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is the most important reason for conducting user testing with wireframe designs?",
+    "selectedAnswers": [
+      "To validate the functionality and usability of the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'?",
+    "selectedAnswers": [
+      "Removing irrelevant information",
+      "Providing only essential functionality",
+      "Using consistent and recognizable icons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider the rule 'recognition rather than recall'.  In terms of form design, what does this imply?",
+    "selectedAnswers": [
+      "The form should use familiar terms and icons"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If a system has 'user control and freedom', what feature would it most likely have?",
+    "selectedAnswers": [
+      "An undo and redo option"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design?",
+    "selectedAnswers": [
+      "Cognitive overload prevention"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the significance of simulating the platform, interface, and interaction when creating a realistic digital prototype?",
+    "selectedAnswers": [
+      "It provides a realistic experience for user testing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When evaluating prototyping software, which of the following should NOT be a key consideration?",
+    "selectedAnswers": [
+      "The frequency of bug fixes to the software"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'iterative' refer to in the context of prototyping in UX design?",
+    "selectedAnswers": [
+      "Repeating the entire process to make improvements to the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to test a digital prototype with users?",
+    "selectedAnswers": [
+      "To get feedback on the user experience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating a digital prototype, what is the purpose of designing fake fields for data entry?",
+    "selectedAnswers": [
+      "To simulate the user's interaction with the application"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which methods can be used to create a finished working simulation of a digital prototype?",
+    "selectedAnswers": [
+      "Screen recording",
+      "Interactive versions",
+      "Video playthroughs"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What factors should you consider when determining the number of screens needed for a digital prototype?",
+    "selectedAnswers": [
+      "The number of different functions the app has",
+      "The complexity of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you wanted to simulate a window popping up over the background in Figma, what technique would you use?",
+    "selectedAnswers": [
+      "Using overlays"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability?",
+    "selectedAnswers": [
+      "Test the app with a small group of users and iterate based on their feedback"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the concept of 'usability' in UX design?",
+    "selectedAnswers": [
+      "The ease of use and learnability of a product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Select all the elements that are considered part of user experience (UX) design.",
+    "selectedAnswers": [
+      "Visual design",
+      "Website speed and responsiveness",
+      "User research"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of UX Design, which of the following best describes the concept of 'Affordance'?",
+    "selectedAnswers": [
+      "The visual cues that inform users about how an object can be used"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is interactivity important for a digital prototype?",
+    "selectedAnswers": [
+      "It helps simulate the real user experience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'iterative' refer to in the context of prototyping in UX design?",
+    "selectedAnswers": [
+      "Repeating the entire process to make improvements to the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When evaluating prototyping software, which of the following should NOT be a key consideration?",
+    "selectedAnswers": [
+      "The frequency of bug fixes to the software"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What factors should you consider when determining the number of screens needed for a digital prototype?",
+    "selectedAnswers": [
+      "The number of different functions the app has",
+      "The complexity of the app"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you wanted to simulate a window popping up over the background in Figma, what technique would you use?",
+    "selectedAnswers": [
+      "Using overlays"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which methods can be used to create a finished working simulation of a digital prototype?",
+    "selectedAnswers": [
+      "Interactive versions",
+      "Video playthroughs",
+      "Screen recording"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When developing a digital prototype, which of the following are true about creating pathways within the prototype?",
+    "selectedAnswers": [
+      "Pathways allow users to navigate through different screens",
+      "Creating pathways provide a more realistic user experience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Select all the elements that are considered part of user experience (UX) design.",
+    "selectedAnswers": [
+      "Website speed and responsiveness",
+      "User research",
+      "Visual design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability?",
+    "selectedAnswers": [
+      "Test the app with a small group of users and iterate based on their feedback"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the concept of 'usability' in UX design?",
+    "selectedAnswers": [
+      "The ease of use and learnability of a product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of UX Design, which of the following best describes the concept of 'Affordance'?",
+    "selectedAnswers": [
+      "The visual cues that inform users about how an object can be used"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When evaluating prototyping software, which of the following should NOT be a key consideration?",
+    "selectedAnswers": [
+      "The frequency of bug fixes to the software"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is the significance of simulating the platform, interface, and interaction when creating a realistic digital prototype?",
+    "selectedAnswers": [
+      "It provides a realistic experience for user testing"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'iterative' refer to in the context of prototyping in UX design?",
+    "selectedAnswers": [
+      "Repeating the entire process to make improvements to the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating a digital prototype, what is the purpose of designing fake fields for data entry?",
+    "selectedAnswers": [
+      "To simulate the user's interaction with the application"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you wanted to simulate a window popping up over the background in Figma, what technique would you use?",
+    "selectedAnswers": [
+      "Using overlays"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to test a digital prototype with users?",
+    "selectedAnswers": [
+      "To get feedback on the user experience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When developing a digital prototype, which of the following are true about creating pathways within the prototype?",
+    "selectedAnswers": [
+      "Creating pathways provide a more realistic user experience",
+      "Pathways allow users to navigate through different screens"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which methods can be used to create a finished working simulation of a digital prototype?",
+    "selectedAnswers": [
+      "Interactive versions",
+      "Video playthroughs",
+      "Screen recording"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the concept of 'usability' in UX design?",
+    "selectedAnswers": [
+      "The ease of use and learnability of a product"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Select all the elements that are considered part of user experience (UX) design.",
+    "selectedAnswers": [
+      "Visual design",
+      "Color theory",
+      "Website speed and responsiveness",
+      "User research"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability?",
+    "selectedAnswers": [
+      "Test the app with a small group of users and iterate based on their feedback"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of UX Design, which of the following best describes the concept of 'Affordance'?",
+    "selectedAnswers": [
+      "The visual cues that inform users about how an object can be used"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When evaluating prototyping software, which of the following should NOT be a key consideration?",
+    "selectedAnswers": [
+      "The frequency of bug fixes to the software"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What does the term 'iterative' refer to in the context of prototyping in UX design?",
+    "selectedAnswers": [
+      "Repeating the entire process to make improvements to the design"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is interactivity important for a digital prototype?",
+    "selectedAnswers": [
+      "It helps simulate the real user experience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which methods can be used to create a finished working simulation of a digital prototype?",
+    "selectedAnswers": [
+      "Interactive versions",
+      "Video playthroughs"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When developing a digital prototype, which of the following are true about creating pathways within the prototype?",
+    "selectedAnswers": [
+      "Creating pathways provide a more realistic user experience",
+      "Pathways allow users to navigate through different screens"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "If you wanted to simulate a window popping up over the background in Figma, what technique would you use?",
+    "selectedAnswers": [
+      "Using overlays"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "When creating a digital prototype, what is the purpose of designing fake fields for data entry?",
+    "selectedAnswers": [
+      "To simulate the user's interaction with the application"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Why is it important to test a digital prototype with users?",
+    "selectedAnswers": [
+      "To get feedback on the user experience"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Select all the elements that are considered part of user experience (UX) design.",
+    "selectedAnswers": [
+      "Visual design",
+      "User research",
+      "Website speed and responsiveness",
+      "Color theory"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability?",
+    "selectedAnswers": [
+      "Test the app with a small group of users and iterate based on their feedback"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In the context of UX Design, which of the following best describes the concept of 'Affordance'?",
+    "selectedAnswers": [
+      "The visual cues that inform users about how an object can be used"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the concept of 'usability' in UX design?",
+    "selectedAnswers": [
+      "The ease of use and learnability of a product"
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
