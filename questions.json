@@ -38011,5 +38011,85 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "What was the title of this course?",
+    "selectedAnswers": [
+      "Understanding User Needs "
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following research techniques were taught in this specific course?",
+    "selectedAnswers": [
+      "Semi-structured interviews"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "The methodology you learned in this course is often labeled “human-centered.” Why?",
+    "selectedAnswers": [
+      "Because it focuses on the needs, preferences, and perspectives of a human user (or potential user)."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What is another name for the affinity wall technique?",
+    "selectedAnswers": [
+      "The KJ Method"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is not another name for the kind of qualitative research methodology you learned in this course?",
+    "selectedAnswers": [
+      "Socio-technical extraction."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following is not one of the three things you learned in this course?",
+    "selectedAnswers": [
+      "Coding of qualitative texts"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What should be your approach in conducting a semi-structured interview?",
+    "selectedAnswers": [
+      "Maintain a conversational tone and use the interview protocol as a loose guideline."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "In which of the following contexts can you use qualitative data analysis? \n\nI. Understanding user needs \n\nII. Making sense of non-quantitative data \n\nIII. Condensing complex information",
+    "selectedAnswers": [
+      "I, II, and III"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following observation methodologies did you learn in this course?",
+    "selectedAnswers": [
+      "Think-aloud protocol"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "How do you get to Carnegie Hall?",
+    "selectedAnswers": [
+      "Practice, practice, practice!"
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
