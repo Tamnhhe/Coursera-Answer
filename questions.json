@@ -38091,5 +38091,297 @@
     ],
     "inputAnswer": null,
     "figures": []
+  },
+  {
+    "question": "According to the following scenario, what would be the most appropriate Access Control model to deploy? Scenario: A medical records database application is used by a health-care worker to access blood test records. If a record contains information about an HIV test, the health-care worker may be denied access to the existence of the HIV test and the results of the HIV test. Only specific hospital staff would have the necessary access control rights to view blood test records that contain any information about HIV tests.",
+    "selectedAnswers": [
+      "Content-Dependent Access Control"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is one of the three primary rules in a Biba formal model?",
+    "selectedAnswers": [
+      "A subject cannot modify an object that has a lower integrity level."
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is an example of a network device that uses Context-Based Access Control?",
+    "selectedAnswers": [
+      "Stateful inspection firewall"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is a principal component of an access control system?",
+    "selectedAnswers": [
+      "Objects"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In the measurement of biometric accuracy, which of the following is commonly referred to as a 'Type 2 error'?",
+    "selectedAnswers": [
+      "Rate of false rejection—False Rejection Rate (FRR)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following are behavioral traits in a biometric device?",
+    "selectedAnswers": [
+      "Voice pattern and Keystroke dynamics"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the difference between a synchronous and asynchronous password token?",
+    "selectedAnswers": [
+      "Synchronous tokens are generated with the use of a timer while asynchronous tokens do not use a clock for generation"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is an authorization table?",
+    "selectedAnswers": [
+      "A matrix of access control objects, access control subjects and their respective rights"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Authorization determines whether a user is permitted to access a particular resource.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Access control subject is passive entity that typically receives or contains some of data.",
+    "selectedAnswers": [
+      "False"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Distinguish between connected tokens and disconnected tokens",
+    "selectedAnswers": [
+      "No answer selected"
+    ],
+    "inputAnswer": "Như đầu buồi"
+  },
+  {
+    "question": "A popular network authentication protocol for indirect (third-party) authentication services.",
+    "selectedAnswers": [
+      "Kerberos"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "A series of trust relationships that authentication requests must follow between domains.",
+    "selectedAnswers": [
+      "Trust path"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "View\nBased Access Controls\nare an example of:",
+    "selectedAnswers": [
+      "Constrained User Interface"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "According to the following scenario, what would be the most appropriate Access Control model to deploy?Scenario:A medical records database application is used by a health-care worker to access blood test records. If a record contains information about an HIV test, the health-care worker may be denied access to the existence of the HIV test and the results of the HIV test. Only specific hospital staff would have the necessary access control rights to view blood test records that contain any information about HIV tests.",
+    "selectedAnswers": [
+      "Content-Dependent Access Control"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which\nof the following is an example of a network device that uses Context-Based Access\nControl?",
+    "selectedAnswers": [
+      "Stateful inspection firewall"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which\nof the following is a principle component of an access control\nsystem?",
+    "selectedAnswers": [
+      "Auditing/Accounting"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In\nthe measurement of biometric accuracy, which of the following is commonly referred\nto as a “Type 2 error”?",
+    "selectedAnswers": [
+      "Rate of false rejection—False\nRejection Rate (FRR)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "What is the output of the following code: \n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n class Calculator{\n \n    int calc(int number1, int number2) {\n        return number1 + number2;\n    }\n \n    double calc(double number1, double number2) {\n        return number1 * number2;\n    }\n}\n \npublic class ModuleQuiz_M3L3 {\n    public static void main(String []args) {\n \n        Calculator calcObject = new Calculator();\n \n        System.out.println( calcObject.calc(2, 1) );\n \n    }\n}",
+    "selectedAnswers": [
+      "3"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Given the following classes: \n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\nclass Student{\n    int rollNo;\n    int age;\n    String name;\n    String subject;\n}\n \n \nclass Trainee ------ Student {\n    int stipend; \n}\n\nThe class Trainee is a specialized version of the Student class that also includes a stipend. What keyword should replace ------ to establish an inheritance relationship between the Trainee class and the Student class?",
+    "selectedAnswers": [
+      "extends"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Select the output of the following code: \n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nclass Vehicle {\n    String typeOfVehicle = \"vehicle\";\n \n    void printType() {\n        System.out.println(\"This is a \" + typeOfVehicle);\n    }\n}\n \nclass Car extends Vehicle {\n    String typeOfVehicle;\n \n    @Override\n    void printType() {\n        super.printType();\n        System.out.println(\"A car is a vehicle.\");\n    }\n}\n \n \npublic class ModuleQuiz_M3L3 {\n    public static void main(String []args) {\n        Car carObject = new Car();\n        carObject.printType();\n    }\n}",
+    "selectedAnswers": [
+      "The output is both “This is a vehicle” and “A car is a vehicle”."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Select all that apply. Given the following code: \n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\nclass Parent {\n    protected String protectedField = \"protected\";\n    private String privateField = \"private\";\n    public String publicField = \"public\";\n}\n \nclass Child extends Parent {\n    public void printSuperFields() {\n        System.out.println(-------);\n    }\n}\n\nWhat should replace ------- to display the value of protectedField from the class Parent?",
+    "selectedAnswers": [
+      "super.protectedField",
+      "protectedField"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Consider the following array: int[] arr = {11,22,33,44,55};True or false: The statement arr[2] = 100;overwrites the element at index 2.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is not a method of the ArrayList class?",
+    "selectedAnswers": [
+      "append()"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which method removes elements from an ArrayList in Java? Select all that apply.",
+    "selectedAnswers": [
+      "remove(Object o)",
+      "clear()",
+      "remove(int index)"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following is a characteristic of a doubly linked list?",
+    "selectedAnswers": [
+      "Each node points to both the next node and the previous node"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Consider the following Java code:12345678910111213141516import java.util.ArrayList; public class Main { public static void main(String[] args) { ArrayList<Integer> list = new ArrayList<>(); list.add(10); list.add(20); list.add(30); list.remove(1); System.out.println(list); } } What will be the output when this code is executed?",
+    "selectedAnswers": [
+      "[10, 30]"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "Which of the following terms are commonly used to describe Stack operations? Select all that apply.",
+    "selectedAnswers": [
+      "push",
+      "peek"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "True or false: In a queue, new elements are always added to the rear (end) of the structure.",
+    "selectedAnswers": [
+      "True"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In a queue data structure, what does the dequeue operation do?",
+    "selectedAnswers": [
+      "Removes the element at the front of the queue"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "You have an array of integers with 10 elements. How would you access the fifth element in the array?",
+    "selectedAnswers": [
+      "arr[4]"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "In an array-based queue implementation, what happens when the rear pointer reaches the end of the array?",
+    "selectedAnswers": [
+      "The rear pointer wraps around to the front if there is available space"
+    ],
+    "inputAnswer": null
+  },
+  {
+    "question": "You're working on a new marketing campaign using AI tools like ChatGPT & DALL-E. How would you define your usage of prompt engineering?",
+    "selectedAnswers": [
+      "A technique to guide generative AI models to produce the outputs you desire."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which of the following best describes the functionality of ChatGPT and DALL-E?",
+    "selectedAnswers": [
+      "They can both generate text and visual content based on user prompts, understand and respond to prompts in multiple languages, but cannot update their knowledge in real-time."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Which characteristics are crucial for crafting effective prompts?\n\n(Select all that apply)",
+    "selectedAnswers": [
+      "Consideration of the target audience and context",
+      "Clear and concise language.",
+      "Specificity in what is expected from the AI."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "Imagine you've been asked to create a persuasive text for a fashion marketing campaign. What would be your primary goal?",
+    "selectedAnswers": [
+      "To engage the audience and motivate them to take action."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "What should be considered when generating visual content for a fashion campaign using DALL-E? (Select all that apply)",
+    "selectedAnswers": [
+      "Brand identity",
+      "Target audience",
+      "Current fashion trends"
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "It reduces the need for a marketing team.",
+    "selectedAnswers": [
+      " It allows for creating tailored, engaging content to connect with the target audience."
+    ],
+    "inputAnswer": null,
+    "figures": []
+  },
+  {
+    "question": "You're using sentiment analysis and A/B testing to optimize a marketing campaign. What can these tools help you achieve?",
+    "selectedAnswers": [
+      "They provide insights to refine and improve campaign elements based on audience response."
+    ],
+    "inputAnswer": null,
+    "figures": []
   }
 ]
